@@ -1,7 +1,8 @@
 ---
 home: true
-actionText: Blockforge Component
+actionText: Blockforge Whitepaper
 actionLink: /blockforge/
+
 features:
 - title: BlockForge
   details: A Vue counter developed using Vue is embedded in this documentation. Now that's the power of VuePress!

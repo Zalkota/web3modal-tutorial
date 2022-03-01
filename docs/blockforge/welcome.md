@@ -1,6 +1,6 @@
 ---
-title: Welcome
+title: Foreward
 ---
-# Welcome
+# Foreward
 
-Currently, this component is used in our app as part of a demonstration.
+The BlockForge Team would like to thank the Critterz Development Team for the Inspiration to create a play-to-earn token with Minecraft Integration.

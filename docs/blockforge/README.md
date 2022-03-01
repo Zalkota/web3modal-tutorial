@@ -1,18 +1,10 @@
 ---
-title: Blockforge Component
+title: Foreward
 ---
-# Counter Component
 
-<counter/>
+# Foreward
 
-## Details
+The BlockForge Team would like to thank the Critterz Development Team for the Inspiration to create a play-to-earn token with Minecraft Integration.
 
-The `counter` component allows users to **Increment** and **Decrement** numeric values. The value starts at `0` and has a minimum value of `0`.
-
-### Props
-
-n/a
-
-### State
-
-n/a
+# Disclaimer
+The BlockForge Team in no way affiliated with, endorsed by, or a partner of Minecraft, Mojang, Microsoft, or any other related parties. Read more Here.
