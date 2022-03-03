@@ -10,7 +10,7 @@ Total Plot Generation = Base Plot Generation + (No of Diamonds * 50$FORGE/Diamon
 
 When staking a plot, it opens the staked plot up for  Plot Vulnerability (Refer Next Section).
 
-# Plot Vulnerability
+## Plot Vulnerability
 When a plot is vulnerable, other users will be allowed to enter the plot to mine for diamonds and other resources. Making a plot vulnerable also allows the plot owner to attack other vulnerable plots within the server for resources, especially Diamonds.
 This mechanism opens up a competitive environment for plot owners to increase their plots rank by attacking other vulnerable plots for diamonds, which in turn can increase the amount of $FORGE tokens their plot generates.
 

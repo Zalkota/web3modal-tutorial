@@ -1,22 +1,23 @@
 module.exports = {
-  title: 'BlockForge Documentation',
-  description: 'Documentation for the BlockForge Minecraft Server & WhitePaper',
+  extraWatchFiles: ["src/**/*.md","src/index.md","src/**/*.vue"],
+  title: 'BlockForge NFT',
+  description: 'Official Documentation Site for BlockForge NFT',
   themeConfig: {
+    logo: '/logo.png',
     nav: [
       { text: 'BlockForge', link: '/blockforge/' }
     ],
     sidebar: [
       {
-        title: 'Blockforge WhitePaper',
+        title: 'Blockforge',
         collapsable: false,
         children: [
-          //['/blockforge/welcome', 'Foreward'],
-          ['/blockforge/Project_Scope', 'Project Scope'],
-          ['/blockforge/Battle-Pass', 'Battle Pass'],
-          ['/blockforge/Staking_Battle_Pass', 'Stake your BlockForge Battle Pass'],
-          ['/blockforge/Renting_Battle_Pass', 'Renting your Staked Battle Pass'],
+          ['/blockforge/welcome', 'Foreward'],
+          ['/blockforge/battle-pass', 'Battle Pass Token'],
+          ['/blockforge/Staking_Battle_Pass', 'Staking Battle Pass'],
+          ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
           ['/blockforge/Plots', 'Purchasing Plots'],
-          ['/blockforge/PlotStaking', 'Staking Your Plot']
+          ['/blockforge/PlotStaking', 'Staking Plots']
         ]
       }
     ]
