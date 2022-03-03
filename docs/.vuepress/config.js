@@ -1,13 +1,16 @@
 module.exports = {
   extraWatchFiles: ["src/**/*.md","src/index.md","src/**/*.vue"],
-  title: 'BlockForge NFT',
-  description: 'Official Documentation Site for BlockForge NFT',
+  title: null,
+  description: 'Official Documentation Site for the BlockForge NFT Project',
   themeConfig: {
     logo: '/logo.png',
     nav: [
       { text: 'WhitePaper', link: '/blockforge/' },
+      { text: 'Server Documentation', link: '/blockforge/placeholder' },
+      { text: 'Gameplay Documentation', link: '/blockforge/placeholder' }
     ],
     sidebar: [
+
       {
         title: 'WhitePaper',
         collapsable: false,
