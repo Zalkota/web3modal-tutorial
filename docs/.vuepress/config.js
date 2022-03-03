@@ -5,11 +5,11 @@ module.exports = {
   themeConfig: {
     logo: '/logo.png',
     nav: [
-      { text: 'BlockForge', link: '/blockforge/' }
+      { text: 'WhitePaper', link: '/blockforge/' },
     ],
     sidebar: [
       {
-        title: 'Blockforge',
+        title: 'WhitePaper',
         collapsable: false,
         children: [
           ['/blockforge/welcome', 'Foreward'],
@@ -18,6 +18,20 @@ module.exports = {
           ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
           ['/blockforge/Plots', 'Purchasing Plots'],
           ['/blockforge/PlotStaking', 'Staking Plots']
+        ]
+      },
+      {
+        title: 'Server Documentation',
+        collapsable: false,
+        children: [
+          ['/blockforge/placeholder', 'Connect to Server']
+        ]
+      },
+      {
+        title: 'GamePlay',
+        collapsable: false,
+        children: [
+          ['/blockforge/placeholder', 'Game Mechanics']
         ]
       }
     ]
