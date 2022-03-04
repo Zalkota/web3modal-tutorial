@@ -6,7 +6,10 @@ pageClass: content-page-class-general
 
 The Blockforge NFT Project is a decentralized, community-driven Play-To-Earn metaverse platform designed on Minecraft. Each NFT is a Play-To-Earn pass that allows a user to earn $FORGE tokens in-game. $FORGE tokens can be used  to purchase plots of land within BlockForge Minecraft Server. The main features of ownership of a BlockForge Pass Include:
 
+
+
 * Membership Access to earn $FORGE
+
 * Access to generate $FORGE tokens by playing in the Minecraft Server
 
 * Staking Access to allow purchase of land plot

@@ -26,17 +26,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-530b300d",
-      "path": "/blockforge/"
-    },
-    {
       "title": "Purchasing Plots on the server",
       "frontmatter": {
         "title": "Purchasing Plots on the server",
@@ -48,22 +37,48 @@ export const siteData = {
       "path": "/blockforge/Plots.html"
     },
     {
-      "title": "Placeholder text",
+      "title": "Project Scope",
       "frontmatter": {
-        "title": "Placeholder text",
+        "title": "Project Scope",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/placeholder.html",
-      "relativePath": "blockforge/placeholder.md",
-      "key": "v-36c4f34e",
-      "path": "/blockforge/placeholder.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Placeholder Text",
-          "slug": "placeholder-text"
-        }
-      ]
+      "regularPath": "/blockforge/Project_Scope.html",
+      "relativePath": "blockforge/Project_Scope.md",
+      "key": "v-2010d598",
+      "path": "/blockforge/Project_Scope.html"
+    },
+    {
+      "title": "Timeline",
+      "frontmatter": {
+        "title": "Timeline",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Project_Timeline.html",
+      "relativePath": "blockforge/Project_Timeline.md",
+      "key": "v-4433111e",
+      "path": "/blockforge/Project_Timeline.html"
+    },
+    {
+      "title": "Renting for BlockForge Pass Holders",
+      "frontmatter": {
+        "title": "Renting for BlockForge Pass Holders",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Renting_Battle_Pass.html",
+      "relativePath": "blockforge/Renting_Battle_Pass.md",
+      "key": "v-7f91be20",
+      "path": "/blockforge/Renting_Battle_Pass.html"
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-530b300d",
+      "path": "/blockforge/"
     },
     {
       "title": "BlockForge Battle Pass",
@@ -82,17 +97,6 @@ export const siteData = {
           "slug": "pass-types-rarity"
         }
       ]
-    },
-    {
-      "title": "Renting for BlockForge Pass Holders",
-      "frontmatter": {
-        "title": "Renting for BlockForge Pass Holders",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Renting_Battle_Pass.html",
-      "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-7f91be20",
-      "path": "/blockforge/Renting_Battle_Pass.html"
     },
     {
       "title": "Staking for BlockForge Pass Holders",
@@ -118,15 +122,22 @@ export const siteData = {
       ]
     },
     {
-      "title": "Project Scope",
+      "title": "Placeholder text",
       "frontmatter": {
-        "title": "Project Scope",
+        "title": "Placeholder text",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Project_Scope.html",
-      "relativePath": "blockforge/Project_Scope.md",
-      "key": "v-2010d598",
-      "path": "/blockforge/Project_Scope.html"
+      "regularPath": "/blockforge/placeholder.html",
+      "relativePath": "blockforge/placeholder.md",
+      "key": "v-36c4f34e",
+      "path": "/blockforge/placeholder.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "Placeholder Text",
+          "slug": "placeholder-text"
+        }
+      ]
     },
     {
       "title": "Foreward",
@@ -194,6 +205,10 @@ export const siteData = {
           [
             "/blockforge/welcome",
             "Foreward"
+          ],
+          [
+            "/blockforge/Project_Timeline",
+            "Project Roadmap"
           ],
           [
             "/blockforge/Project_Scope",

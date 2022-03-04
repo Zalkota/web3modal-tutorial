@@ -16,6 +16,7 @@ module.exports = {
         collapsable: false,
         children: [
           ['/blockforge/welcome', 'Foreward'],
+          ['/blockforge/Project_Timeline', 'Project Roadmap'],
           ['/blockforge/Project_Scope', 'Project Scope'],
           ['/blockforge/battle-pass', 'Battle Pass Token'],
           ['/blockforge/Staking_Battle_Pass', 'Staking Battle Pass'],
