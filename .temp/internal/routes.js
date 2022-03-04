@@ -17,14 +17,6 @@ export const routes = [
     },
   },
   {
-    name: "v-7f91be20",
-    path: "/blockforge/Renting_Battle_Pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-7f91be20").then(next)
-    },
-  },
-  {
     name: "v-23739550",
     path: "/blockforge/Plots.html",
     component: GlobalLayout,
@@ -41,6 +33,22 @@ export const routes = [
     },
   },
   {
+    name: "v-7f91be20",
+    path: "/blockforge/Renting_Battle_Pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-7f91be20").then(next)
+    },
+  },
+  {
+    name: "v-0bd5f894",
+    path: "/blockforge/Staking_Battle_Pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-0bd5f894").then(next)
+    },
+  },
+  {
     name: "v-530b300d",
     path: "/blockforge/",
     component: GlobalLayout,
@@ -53,6 +61,14 @@ export const routes = [
     redirect: "/blockforge/"
   },
   {
+    name: "v-3c5c3fa8",
+    path: "/blockforge/battle-pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-3c5c3fa8").then(next)
+    },
+  },
+  {
     name: "v-36c4f34e",
     path: "/blockforge/placeholder.html",
     component: GlobalLayout,
@@ -61,27 +77,11 @@ export const routes = [
     },
   },
   {
-    name: "v-0bd5f894",
-    path: "/blockforge/Staking_Battle_Pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-0bd5f894").then(next)
-    },
-  },
-  {
     name: "v-7a14c370",
     path: "/blockforge/welcome.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-7a14c370").then(next)
-    },
-  },
-  {
-    name: "v-3c5c3fa8",
-    path: "/blockforge/battle-pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-3c5c3fa8").then(next)
     },
   },
   {

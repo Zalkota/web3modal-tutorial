@@ -25,16 +25,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Renting for BlockForge Pass Holders",
-      "frontmatter": {
-        "title": "Renting for BlockForge Pass Holders"
-      },
-      "regularPath": "/blockforge/Renting_Battle_Pass.html",
-      "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-7f91be20",
-      "path": "/blockforge/Renting_Battle_Pass.html"
-    },
-    {
       "title": "Purchasing Plots on the server",
       "frontmatter": {
         "title": "Purchasing Plots on the server"
@@ -55,31 +45,14 @@ export const siteData = {
       "path": "/blockforge/Project_Scope.html"
     },
     {
-      "title": "Foreward",
+      "title": "Renting for BlockForge Pass Holders",
       "frontmatter": {
-        "title": "Foreward"
+        "title": "Renting for BlockForge Pass Holders"
       },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-530b300d",
-      "path": "/blockforge/"
-    },
-    {
-      "title": "Placeholder text",
-      "frontmatter": {
-        "title": "Placeholder text"
-      },
-      "regularPath": "/blockforge/placeholder.html",
-      "relativePath": "blockforge/placeholder.md",
-      "key": "v-36c4f34e",
-      "path": "/blockforge/placeholder.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Placeholder Text",
-          "slug": "placeholder-text"
-        }
-      ]
+      "regularPath": "/blockforge/Renting_Battle_Pass.html",
+      "relativePath": "blockforge/Renting_Battle_Pass.md",
+      "key": "v-7f91be20",
+      "path": "/blockforge/Renting_Battle_Pass.html"
     },
     {
       "title": "Staking for BlockForge Pass Holders",
@@ -106,17 +79,19 @@ export const siteData = {
     {
       "title": "Foreward",
       "frontmatter": {
-        "title": "Foreward"
+        "title": "Foreward",
+        "pageClass": "content-page-class"
       },
-      "regularPath": "/blockforge/welcome.html",
-      "relativePath": "blockforge/welcome.md",
-      "key": "v-7a14c370",
-      "path": "/blockforge/welcome.html"
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-530b300d",
+      "path": "/blockforge/"
     },
     {
       "title": "BlockForge Battle Pass",
       "frontmatter": {
-        "title": "BlockForge Battle Pass"
+        "title": "BlockForge Battle Pass",
+        "pageClass": "content-page-class"
       },
       "regularPath": "/blockforge/battle-pass.html",
       "relativePath": "blockforge/battle-pass.md",
@@ -129,6 +104,34 @@ export const siteData = {
           "slug": "pass-types-rarity"
         }
       ]
+    },
+    {
+      "title": "Placeholder text",
+      "frontmatter": {
+        "title": "Placeholder text"
+      },
+      "regularPath": "/blockforge/placeholder.html",
+      "relativePath": "blockforge/placeholder.md",
+      "key": "v-36c4f34e",
+      "path": "/blockforge/placeholder.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "Placeholder Text",
+          "slug": "placeholder-text"
+        }
+      ]
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class"
+      },
+      "regularPath": "/blockforge/welcome.html",
+      "relativePath": "blockforge/welcome.md",
+      "key": "v-7a14c370",
+      "path": "/blockforge/welcome.html"
     },
     {
       "title": "Home",

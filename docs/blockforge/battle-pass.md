@@ -1,6 +1,6 @@
 ---
 title: BlockForge Battle Pass
-
+pageClass: content-page-class
 ---
 # Battle Pass
 

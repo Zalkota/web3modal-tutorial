@@ -3,13 +3,13 @@
  */
 export default {
   "v-680fa670": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\PlotStaking.md"),
-  "v-7f91be20": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\Renting_Battle_Pass.md"),
   "v-23739550": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\Plots.md"),
   "v-2010d598": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\Project_Scope.md"),
-  "v-530b300d": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\README.md"),
-  "v-36c4f34e": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\placeholder.md"),
+  "v-7f91be20": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\Renting_Battle_Pass.md"),
   "v-0bd5f894": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\Staking_Battle_Pass.md"),
-  "v-7a14c370": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\welcome.md"),
+  "v-530b300d": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\README.md"),
   "v-3c5c3fa8": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\battle-pass.md"),
+  "v-36c4f34e": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\placeholder.md"),
+  "v-7a14c370": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\blockforge\\welcome.md"),
   "v-311a4f6a": () => import("C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\docs\\index.md") 
 }
