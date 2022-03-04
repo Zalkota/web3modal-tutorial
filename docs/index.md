@@ -1,8 +1,10 @@
 ---
 home: true
+pageClass: custom-page-class
 actionText: See All Documentation
 actionLink: /blockforge/
 heroImage: /logo.png
+heroText: null
 features:
 - title: WhitePaper
   details: Information relating to the vision, concept and development of the BlockForge NFT Project

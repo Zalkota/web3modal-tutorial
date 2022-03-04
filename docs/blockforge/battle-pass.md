@@ -1,5 +1,6 @@
 ---
 title: BlockForge Battle Pass
+
 ---
 # Battle Pass
 

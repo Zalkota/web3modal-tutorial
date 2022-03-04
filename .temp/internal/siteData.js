@@ -35,6 +35,53 @@ export const siteData = {
       "path": "/blockforge/Renting_Battle_Pass.html"
     },
     {
+      "title": "Purchasing Plots on the server",
+      "frontmatter": {
+        "title": "Purchasing Plots on the server"
+      },
+      "regularPath": "/blockforge/Plots.html",
+      "relativePath": "blockforge/Plots.md",
+      "key": "v-23739550",
+      "path": "/blockforge/Plots.html"
+    },
+    {
+      "title": "Project Scope",
+      "frontmatter": {
+        "title": "Project Scope"
+      },
+      "regularPath": "/blockforge/Project_Scope.html",
+      "relativePath": "blockforge/Project_Scope.md",
+      "key": "v-2010d598",
+      "path": "/blockforge/Project_Scope.html"
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward"
+      },
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-530b300d",
+      "path": "/blockforge/"
+    },
+    {
+      "title": "Placeholder text",
+      "frontmatter": {
+        "title": "Placeholder text"
+      },
+      "regularPath": "/blockforge/placeholder.html",
+      "relativePath": "blockforge/placeholder.md",
+      "key": "v-36c4f34e",
+      "path": "/blockforge/placeholder.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "Placeholder Text",
+          "slug": "placeholder-text"
+        }
+      ]
+    },
+    {
       "title": "Staking for BlockForge Pass Holders",
       "frontmatter": {
         "title": "Staking for BlockForge Pass Holders"
@@ -61,10 +108,10 @@ export const siteData = {
       "frontmatter": {
         "title": "Foreward"
       },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-530b300d",
-      "path": "/blockforge/"
+      "regularPath": "/blockforge/welcome.html",
+      "relativePath": "blockforge/welcome.md",
+      "key": "v-7a14c370",
+      "path": "/blockforge/welcome.html"
     },
     {
       "title": "BlockForge Battle Pass",
@@ -84,59 +131,14 @@ export const siteData = {
       ]
     },
     {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward"
-      },
-      "regularPath": "/blockforge/welcome.html",
-      "relativePath": "blockforge/welcome.md",
-      "key": "v-7a14c370",
-      "path": "/blockforge/welcome.html"
-    },
-    {
-      "title": "Placeholder text",
-      "frontmatter": {
-        "title": "Placeholder text"
-      },
-      "regularPath": "/blockforge/placeholder.html",
-      "relativePath": "blockforge/placeholder.md",
-      "key": "v-36c4f34e",
-      "path": "/blockforge/placeholder.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Placeholder Text",
-          "slug": "placeholder-text"
-        }
-      ]
-    },
-    {
-      "title": "Purchasing Plots on the server",
-      "frontmatter": {
-        "title": "Purchasing Plots on the server"
-      },
-      "regularPath": "/blockforge/Plots.html",
-      "relativePath": "blockforge/Plots.md",
-      "key": "v-23739550",
-      "path": "/blockforge/Plots.html"
-    },
-    {
-      "title": "Project Scope",
-      "frontmatter": {
-        "title": "Project Scope"
-      },
-      "regularPath": "/blockforge/Project_Scope.html",
-      "relativePath": "blockforge/Project_Scope.md",
-      "key": "v-2010d598",
-      "path": "/blockforge/Project_Scope.html"
-    },
-    {
       "title": "Home",
       "frontmatter": {
         "home": true,
+        "pageClass": "custom-page-class",
         "actionText": "See All Documentation",
         "actionLink": "/blockforge/",
         "heroImage": "/logo.png",
+        "heroText": null,
         "features": [
           {
             "title": "WhitePaper",
