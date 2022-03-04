@@ -6,8 +6,8 @@ pageClass: content-page-class-general
 
 The BlockForge Battle pass is an ERC 721 Token that is available for purchase. Only 10,000 Blockforge passes will be available for minting. Ownership of a Blockforge pass will allow the owner to earn roughly 15-25 $FORGE tokens per hour spent in-game. The amount of token that can be earned in-game depends on the type of pass that the owner possesses.
 
-![BattlePass Token](/diamond_frontside_rendered.jpg)
-![BattlePass Token](/diamond_backside_rendered.jpg)
+
+<BattlePassImages/>
 
 ## Pass Types & Rarity
 

@@ -4,7 +4,9 @@ pageClass: content-page-class-general
 ---
 
 # Stake your BlockForge Battle Pass
+
 BlockForge Pass Holders can stake their pass to obtain access to additional benefits mentioned below:
+
 * Enable Hourly $FORGE token generation amount
 * Obtain Access to rent your BlockForge Pass to other users
 
@@ -12,6 +14,7 @@ When a user stakes their BlockForge Pass, the pass is transferred to the staking
 
 
 ## Staking Rewards
+
 By Staking your Blockforge pass, the first benefit you receive is the ability to generate $FORGE tokens per unit time spent in-game. Hourly earnings while in-game can range from roughly 25-50 tokens when a BlockForge pass is staked.  
 
 The amount of $FORGE generated based off the time spent in-game when a user owns a  Staked “Gold Pass”  is calculated in the formula shown below:

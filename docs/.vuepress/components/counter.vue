@@ -5,15 +5,15 @@
         <li>
           <div class="timeline-content">
             <h3 class="date">20th May, 2022</h3>
-            <h1>Whitelisting</h1>
-            <p>Whitelist open for general public to sign up.</p>
+            <h1>Whitelisting </h1>
+            <p> 500 Whitelist spots open for general public to sign up. Additional spots are reserved for Cosmic Caps NFT Holders and the MineCraft NFT Community. </p>
           </div>
         </li>
         <li>
           <div class="timeline-content">
             <h3 class="date">20th June, 2022</h3>
             <h1>Diamond Pass Mint</h1>
-            <p>Initial Mint of 3000 Diamond BlockForge NFT passes</p>
+            <p>Initial Mint of 3000 Diamond BlockForge NFT passes open to whitelisters and the public. </p>
           </div>
         </li>
         <li>
@@ -27,7 +27,7 @@
           <div class="timeline-content">
             <h3 class="date">20th August, 2012</h3>
             <h1>Territory Release</h1>
-            <p> Staked BlockForge NFT holders will have access to purchase territories within the Minecraft Server</p>
+            <p> Staked BlockForge NFT holders will have access to purchase territories within the Minecraft Server.</p>
           </div>
         </li>
         <li>
@@ -50,7 +50,7 @@
 
 .container {
   min-height: 100vh;
-  width: 100%;
+  width: 150%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -67,6 +67,7 @@
 
 .timeline ul {
   list-style: none;
+  text-align: left;
 }
 .timeline ul li {
   padding: 20px;
@@ -79,19 +80,22 @@
   margin-bottom: 0;
 }
 .timeline-content h1 {
-  font-weight: 500;
+  font-weight: 1000;
   font-size: 25px;
   line-height: 30px;
   margin-bottom: 10px;
+  text-align: left;
+  color:#2c2121;
 }
 .timeline-content p {
   font-size: 16px;
   line-height: 30px;
   font-weight: 300;
+  color: #2c2121;
 }
 .timeline-content .date {
-  font-size: 12px;
-  font-weight: 300;
+  font-size: 16px;
+  font-weight: 900;
   margin-bottom: 10px;
   letter-spacing: 2px;
 }

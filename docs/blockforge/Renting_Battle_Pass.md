@@ -4,7 +4,9 @@ pageClass: content-page-class-general
 ---
 
 # Renting your Staked Battle Pass
+
 BlockForge passes have to be staked in order to be rented out. When a BlockForge Pass is Staked, the Pass owner is granted access to rent their staked pass for a duration of 7 days to other players for use. The staked passes can be listed on a secondary market for sale or transfer for other players to rent out. Some important points to consider while renting your pass are:
+
 * BlockForge Pass needs to be staked in order to obtain access to rent
 
   * When you stake your pass, it is transferred to a staking contract and a new staked pass is minted to your Ethereum Address

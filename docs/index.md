@@ -2,7 +2,7 @@
 home: true
 pageClass: custom-page-class
 actionText: See All Documentation
-actionLink: /blockforge/
+actionLink: /blockforge/welcome
 heroImage: /logo.png
 heroText: null
 features:

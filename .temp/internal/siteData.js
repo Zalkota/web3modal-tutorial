@@ -8,6 +8,35 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
+      "title": "Purchasing Plots on the server",
+      "frontmatter": {
+        "title": "Purchasing Plots on the server",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Plots.html",
+      "relativePath": "blockforge/Plots.md",
+      "key": "v-23739550",
+      "path": "/blockforge/Plots.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Plot Ranking",
+          "slug": "plot-ranking"
+        }
+      ]
+    },
+    {
+      "title": "Project Scope",
+      "frontmatter": {
+        "title": "Project Scope",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Project_Scope.html",
+      "relativePath": "blockforge/Project_Scope.md",
+      "key": "v-2010d598",
+      "path": "/blockforge/Project_Scope.html"
+    },
+    {
       "title": "Staking Plots",
       "frontmatter": {
         "title": "Staking Plots",
@@ -26,26 +55,15 @@ export const siteData = {
       ]
     },
     {
-      "title": "Purchasing Plots on the server",
+      "title": "Renting for BlockForge Pass Holders",
       "frontmatter": {
-        "title": "Purchasing Plots on the server",
+        "title": "Renting for BlockForge Pass Holders",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Plots.html",
-      "relativePath": "blockforge/Plots.md",
-      "key": "v-23739550",
-      "path": "/blockforge/Plots.html"
-    },
-    {
-      "title": "Project Scope",
-      "frontmatter": {
-        "title": "Project Scope",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Project_Scope.html",
-      "relativePath": "blockforge/Project_Scope.md",
-      "key": "v-2010d598",
-      "path": "/blockforge/Project_Scope.html"
+      "regularPath": "/blockforge/Renting_Battle_Pass.html",
+      "relativePath": "blockforge/Renting_Battle_Pass.md",
+      "key": "v-7f91be20",
+      "path": "/blockforge/Renting_Battle_Pass.html"
     },
     {
       "title": "Timeline",
@@ -59,15 +77,22 @@ export const siteData = {
       "path": "/blockforge/Project_Timeline.html"
     },
     {
-      "title": "Renting for BlockForge Pass Holders",
+      "title": "Placeholder text",
       "frontmatter": {
-        "title": "Renting for BlockForge Pass Holders",
+        "title": "Placeholder text",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Renting_Battle_Pass.html",
-      "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-7f91be20",
-      "path": "/blockforge/Renting_Battle_Pass.html"
+      "regularPath": "/blockforge/placeholder.html",
+      "relativePath": "blockforge/placeholder.md",
+      "key": "v-36c4f34e",
+      "path": "/blockforge/placeholder.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "Placeholder Text",
+          "slug": "placeholder-text"
+        }
+      ]
     },
     {
       "title": "Foreward",
@@ -79,6 +104,47 @@ export const siteData = {
       "relativePath": "blockforge/README.md",
       "key": "v-530b300d",
       "path": "/blockforge/"
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/welcome.html",
+      "relativePath": "blockforge/welcome.md",
+      "key": "v-7a14c370",
+      "path": "/blockforge/welcome.html"
+    },
+    {
+      "title": "Home",
+      "frontmatter": {
+        "home": true,
+        "pageClass": "custom-page-class",
+        "actionText": "See All Documentation",
+        "actionLink": "/blockforge/welcome",
+        "heroImage": "/logo.png",
+        "heroText": null,
+        "features": [
+          {
+            "title": "WhitePaper",
+            "details": "Information relating to the vision, concept and development of the BlockForge NFT Project"
+          },
+          {
+            "title": "Server Documentation",
+            "details": "Information related to the BlockForge MineCraft Server"
+          },
+          {
+            "title": "GamePlay Documentation",
+            "details": "Information related to the BlockForge GamePlay"
+          }
+        ],
+        "footer": "The BlockForge Development Team is in no way affiliated with, endorsed by, or a partner of Minecraft, Mojang, Microsoft, or any other related parties."
+      },
+      "regularPath": "/",
+      "relativePath": "index.md",
+      "key": "v-311a4f6a",
+      "path": "/"
     },
     {
       "title": "BlockForge Battle Pass",
@@ -120,65 +186,6 @@ export const siteData = {
           "slug": "unstaking-your-blockforge-battle-pass"
         }
       ]
-    },
-    {
-      "title": "Placeholder text",
-      "frontmatter": {
-        "title": "Placeholder text",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/placeholder.html",
-      "relativePath": "blockforge/placeholder.md",
-      "key": "v-36c4f34e",
-      "path": "/blockforge/placeholder.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Placeholder Text",
-          "slug": "placeholder-text"
-        }
-      ]
-    },
-    {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/welcome.html",
-      "relativePath": "blockforge/welcome.md",
-      "key": "v-7a14c370",
-      "path": "/blockforge/welcome.html"
-    },
-    {
-      "title": "Home",
-      "frontmatter": {
-        "home": true,
-        "pageClass": "custom-page-class",
-        "actionText": "See All Documentation",
-        "actionLink": "/blockforge/",
-        "heroImage": "/logo.png",
-        "heroText": null,
-        "features": [
-          {
-            "title": "WhitePaper",
-            "details": "Information relating to the vision, concept and development of the BlockForge NFT Project"
-          },
-          {
-            "title": "Server Documentation",
-            "details": "Information related to the BlockForge MineCraft Server"
-          },
-          {
-            "title": "GamePlay Documentation",
-            "details": "Information related to the BlockForge GamePlay"
-          }
-        ],
-        "footer": "The BlockForge Development Team is in no way affiliated with, endorsed by, or a partner of Minecraft, Mojang, Microsoft, or any other related parties."
-      },
-      "regularPath": "/",
-      "relativePath": "index.md",
-      "key": "v-311a4f6a",
-      "path": "/"
     }
   ],
   "themeConfig": {
