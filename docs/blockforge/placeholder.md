@@ -1,5 +1,6 @@
 ---
 title: Placeholder text
+pageClass: content-page-class-general
 ---
 
 ### Placeholder Text

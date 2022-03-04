@@ -1,6 +1,6 @@
 ---
 title: Foreward
-pageClass: content-page-class
+pageClass: content-page-class-general
 ---
 # Foreward
 

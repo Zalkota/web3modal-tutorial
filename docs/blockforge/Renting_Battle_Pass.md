@@ -1,5 +1,6 @@
 ---
 title: Renting for BlockForge Pass Holders
+pageClass: content-page-class-general
 ---
 
 # Renting your Staked Battle Pass

@@ -1,5 +1,6 @@
 ---
 title: Purchasing Plots on the server
+pageClass: content-page-class-general
 ---
 # Purchasing Plots
 

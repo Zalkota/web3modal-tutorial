@@ -1,5 +1,6 @@
 ---
 title: Staking for BlockForge Pass Holders
+pageClass: content-page-class-general
 ---
 
 # Stake your BlockForge Battle Pass

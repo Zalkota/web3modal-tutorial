@@ -1,5 +1,6 @@
 ---
 title: Project Scope
+pageClass: content-page-class-general
 ---
 # Project Scope
 

@@ -1,5 +1,6 @@
 ---
 title: Staking Plots
+pageClass: content-page-class-general
 ---
 # Staking your Plot
 Users have the ability to stake their plot to enable additional $FORGE token generation. When a user stakes their Plot, the plot is transferred to a staking contract for safe storage and a new staked Plot is minted to the user.
