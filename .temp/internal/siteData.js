@@ -8,6 +8,52 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
+      "title": "Game Mechanics",
+      "frontmatter": {
+        "title": "Game Mechanics",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/GameMechanics.html",
+      "relativePath": "blockforge/GameMechanics.md",
+      "key": "v-2b43f68c",
+      "path": "/blockforge/GameMechanics.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Resource Arena",
+          "slug": "resource-arena"
+        },
+        {
+          "level": 2,
+          "title": "Raid Arena",
+          "slug": "raid-arena"
+        },
+        {
+          "level": 2,
+          "title": "Duel Arena",
+          "slug": "duel-arena"
+        }
+      ]
+    },
+    {
+      "title": "Staking Plots",
+      "frontmatter": {
+        "title": "Staking Plots",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/PlotStaking.html",
+      "relativePath": "blockforge/PlotStaking.md",
+      "key": "v-680fa670",
+      "path": "/blockforge/PlotStaking.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Plot Vulnerability",
+          "slug": "plot-vulnerability"
+        }
+      ]
+    },
+    {
       "title": "Purchasing Plots on the server",
       "frontmatter": {
         "title": "Purchasing Plots on the server",
@@ -37,22 +83,15 @@ export const siteData = {
       "path": "/blockforge/Project_Scope.html"
     },
     {
-      "title": "Staking Plots",
+      "title": "Foreward",
       "frontmatter": {
-        "title": "Staking Plots",
+        "title": "Foreward",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/PlotStaking.html",
-      "relativePath": "blockforge/PlotStaking.md",
-      "key": "v-680fa670",
-      "path": "/blockforge/PlotStaking.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Plot Vulnerability",
-          "slug": "plot-vulnerability"
-        }
-      ]
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-530b300d",
+      "path": "/blockforge/"
     },
     {
       "title": "Renting for BlockForge Pass Holders",
@@ -77,6 +116,24 @@ export const siteData = {
       "path": "/blockforge/Project_Timeline.html"
     },
     {
+      "title": "BlockForge Battle Pass",
+      "frontmatter": {
+        "title": "BlockForge Battle Pass",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/battle-pass.html",
+      "relativePath": "blockforge/battle-pass.md",
+      "key": "v-3c5c3fa8",
+      "path": "/blockforge/battle-pass.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Pass Types & Rarity",
+          "slug": "pass-types-rarity"
+        }
+      ]
+    },
+    {
       "title": "Placeholder text",
       "frontmatter": {
         "title": "Placeholder text",
@@ -95,15 +152,27 @@ export const siteData = {
       ]
     },
     {
-      "title": "Foreward",
+      "title": "Staking for BlockForge Pass Holders",
       "frontmatter": {
-        "title": "Foreward",
+        "title": "Staking for BlockForge Pass Holders",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-530b300d",
-      "path": "/blockforge/"
+      "regularPath": "/blockforge/Staking_Battle_Pass.html",
+      "relativePath": "blockforge/Staking_Battle_Pass.md",
+      "key": "v-0bd5f894",
+      "path": "/blockforge/Staking_Battle_Pass.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Staking Rewards",
+          "slug": "staking-rewards"
+        },
+        {
+          "level": 2,
+          "title": "Unstaking your BlockForge Battle Pass",
+          "slug": "unstaking-your-blockforge-battle-pass"
+        }
+      ]
     },
     {
       "title": "Foreward",
@@ -145,47 +214,6 @@ export const siteData = {
       "relativePath": "index.md",
       "key": "v-311a4f6a",
       "path": "/"
-    },
-    {
-      "title": "BlockForge Battle Pass",
-      "frontmatter": {
-        "title": "BlockForge Battle Pass",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/battle-pass.html",
-      "relativePath": "blockforge/battle-pass.md",
-      "key": "v-3c5c3fa8",
-      "path": "/blockforge/battle-pass.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Pass Types & Rarity",
-          "slug": "pass-types-rarity"
-        }
-      ]
-    },
-    {
-      "title": "Staking for BlockForge Pass Holders",
-      "frontmatter": {
-        "title": "Staking for BlockForge Pass Holders",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Staking_Battle_Pass.html",
-      "relativePath": "blockforge/Staking_Battle_Pass.md",
-      "key": "v-0bd5f894",
-      "path": "/blockforge/Staking_Battle_Pass.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Staking Rewards",
-          "slug": "staking-rewards"
-        },
-        {
-          "level": 2,
-          "title": "Unstaking your BlockForge Battle Pass",
-          "slug": "unstaking-your-blockforge-battle-pass"
-        }
-      ]
     }
   ],
   "themeConfig": {
@@ -201,7 +229,7 @@ export const siteData = {
       },
       {
         "text": "Gameplay Documentation",
-        "link": "/blockforge/placeholder"
+        "link": "/blockforge/GameMechanics"
       }
     ],
     "sidebar": [
@@ -258,7 +286,7 @@ export const siteData = {
         "collapsable": false,
         "children": [
           [
-            "/blockforge/placeholder",
+            "/blockforge/GameMechanics",
             "Game Mechanics"
           ]
         ]

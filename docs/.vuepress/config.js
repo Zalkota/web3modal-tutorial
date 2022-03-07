@@ -7,7 +7,7 @@ module.exports = {
     nav: [
       { text: 'WhitePaper', link: '/blockforge/' },
       { text: 'Server Documentation', link: '/blockforge/placeholder' },
-      { text: 'Gameplay Documentation', link: '/blockforge/placeholder' }
+      { text: 'Gameplay Documentation', link: '/blockforge/GameMechanics' }
     ],
     sidebar: [
 
@@ -36,7 +36,7 @@ module.exports = {
         title: 'GamePlay',
         collapsable: false,
         children: [
-          ['/blockforge/placeholder', 'Game Mechanics']
+          ['/blockforge/GameMechanics', 'Game Mechanics']
         ]
       }
     ]
