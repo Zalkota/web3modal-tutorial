@@ -1,5 +1,5 @@
 ---
-title: Game Mechanics
+title: Arenas
 pageClass: content-page-class-general
 ---
 
