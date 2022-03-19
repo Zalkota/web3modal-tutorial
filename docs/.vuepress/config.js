@@ -36,7 +36,7 @@ module.exports = {
         title: 'GamePlay',
         collapsable: false,
         children: [
-          ['/blockforge/GameMechanics', 'Arenas']
+          ['/blockforge/GameMechanics','Arenas']
         ]
       }
     ]

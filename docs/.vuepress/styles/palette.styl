@@ -1,4 +1,4 @@
-$accentColor = #1c1212
+$accentColor = #4299e1
 $textColor = #2c3e50
 $borderColor = #eaecef
 $codeBgColor = #282c34
@@ -6,52 +6,228 @@ $badgeTip = #42b983
 $badgeWarning = darken(#ffe564, 35%)
 $badgeError = #DA596
 
+html {
+    background-color: #eff6ff !important;
+  }
+body {
+    background-color: #eff6ff !important;
+  }
+
 .theme-container.content-page-class-general{
-  font-family: 'VT323', monospace;
-  background-color: #ffeceb;
-  background-size: cover;
-  height: 100vh;
-  text-align:left;
-
-
-  aside.sidebar{
-    background-color: #ffeceb;
+  @css{
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;500;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
   }
 
-  header.navbar{
-    background-color: #ffeceb;
+  // all content within read pages
+  div.theme-default-content.content__default {
+    background-color: #eff6ff !important;
+    border-color:  #eff6ff;
+    position: relative;
+    z-index: 0;
   }
 
+  // main read pages
   main.page{
-    background-color: #ffeceb;
+    font-family: 'Nunito';
+    background-color: #eff6ff;
+    background-size: cover;
+    height: 100vh;
+    text-align: inherit;
+    line-height: 10;
+  }
+
+  //Logo in all read pages
+  img.logo{
+    height: 35.19px;
+    width: 157.5px;
+  }
+
+  // sidebar in read pages
+  aside.sidebar{
+    font-family: 'Russo One';
+    background-color: #eff6ff;
+    border-color: #DBEAFE;
+  }
+
+  //navbar in read pages
+  header.navbar{
+    font-family: 'Russo One';
+    background-color: #eff6ff;
+  }
+
+  // Footer page navigator
+  div.page-nav{
+    background-color: #eff6ff;
+    border-color: transparent;
+    font-weight: 10;
+    line-height: 2;
+    margin-left: auto;
+  }
+
+  // Top header links in read pages
+  div.links{
+    background-color: #eff6ff;
+  }
+
+  footer{
+    background-color: #eff6ff;
+  }
+  // all h1 in read pages
+  h1 {
+    font-family: 'Russo One';
+    font-size: 36px;
+  }
+
+  // all h2 in read pages
+  h2{
+    font-family: 'Russo One';
+  }
+
+  // all p in read pages
+  p{
     line-height: 2;
   }
 
-  div.page-nav{
-    background-color: #ffeceb;
-    border-color: transparent;
+
+  // Lists within Read Pages
+  div.theme-default-content li {
+    width: inherit;
+    height: inherit;
+    padding: 10px;
+    --tw-space-y-reverse: 0;
+    margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));
+    border: 1px solid #5d84a2;
+    border-radius: 5px;
+    list-style: none;
+    background-color:#DBEAFE;
 
   }
-  div.links{
-    background-color: #ffeceb;
+
+// All these are for the timeline
+  .container {
+    min-height: 100vh;
+    width: 150%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 0;
+    background-color: #eff6ff;
+  }
+  .timeline {
+    width: 80%;
+    height: auto;
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
   }
 
-  img.logo{
-    height: 35.19px;
-    width: 146.33px;
+  .timeline ul {
+    list-style: none;
+    text-align: left;
+  }
+  .timeline ul li {
+    padding: 20px;
+    --border-opacity: 1;
+    background-color: #1a202c;
+    color: #1a202c;
+    margin-bottom: 20px;
+  }
+  .timeline ul li:last-child {
+    margin-bottom: 0;
   }
 
-  img{
-        height: 300px;
-        width: 300px;
-        align: center;
+  .timeline-content h1 {
+    font-weight: 10;
+    font-size: 26px;
+    line-height: 30px;
+    margin-bottom: 10px;
+    text-align: left;
+    color:#eff6ff;
   }
 
+  .timeline-content p {
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 300;
+    color: #eff6ff;
+  }
+  .timeline-content .date {
+    font-size: 16px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+  }
 
+  @media only screen and (min-width: 768px) {
+    .timeline:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 2px;
+      height: 100%;
+      background-color: gray;
+    }
+    .timeline ul li {
+      width: 50%;
+      position: relative;
+      margin-bottom: 50px;
+    }
+    .timeline ul li:nth-child(odd) {
+      float: left;
+      clear: right;
+      transform: translateX(-30px);
+      border-radius: 20px 0px 20px 20px;
+    }
+    .timeline ul li:nth-child(even) {
+      float: right;
+      clear: left;
+      transform: translateX(30px);
+      border-radius: 0px 20px 20px 20px;
+    }
+    .timeline ul li::before {
+      content: "";
+      position: absolute;
+      height: 20px;
+      width: 20px;
+      border-radius: 50%;
+      background-color: gray;
+      top: 0px;
+    }
+    .timeline ul li:nth-child(odd)::before {
+      transform: translate(50%, -50%);
+      right: -21px;
+    }
+    .timeline ul li:nth-child(even)::before {
+      transform: translate(-50%, -50%);
+      left: -38px;
+    }
+    .timeline-content .date {
+      position: absolute;
+      top: -30px;
+    }
+    .timeline ul li:hover::before {
+      background-color: aqua;
+    }
+  }
 }
 
+// Styling for the Landing Page/Hero Page
 .theme-container.custom-page-class {
-  font-family: 'Nunito', Monospace ;
+  @css{
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;500;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+  }
+
+
+  font-family: 'Nunito';
   background-image: url('/blockforge_header.jpg');
   background-size: cover;
   height: 140vh;
@@ -60,13 +236,14 @@ $badgeError = #DA596
     display: none;
   }
 
+
   header.navbar {
     background-color: transparent;
     border-color: transparent;
   }
 
   p.description {
-    color:#ffeceb;
+    color:#eff6ff;
   }
 
   main.home{
@@ -76,22 +253,38 @@ $badgeError = #DA596
   div.links{
     background-color: transparent;
     border-color: transparent;
-    color: #ffeceb;
+    color: #eff6ff;
+    font-family: 'Russo One';
   }
 
   div.footer{
     background-color: transparent;
     border-color: transparent;
-    color: #ffeceb;
+    color: #eff6ff;
+    font-family: 'Montserrat';
+    font-weight: lighter;
   }
 
   h1{
-    color:#ffeceb;
+    color:#eff6ff;
   }
   h2{
-    color: #ffeceb;
+    font-family: 'Russo One';
+    color: #eff6ff;
   }
+
   p{
-    color: #ffeceb;
+    font-family: 'Montserrat';
+    color: #eff6ff;
+  }
+
+  p.description{
+    font-family: 'Nunito';
+    color: #eff6ff;
+  }
+
+  a.nav-link.action-button{
+    font-family: 'Russo One';
+    color: #eff6ff;
   }
 }

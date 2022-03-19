@@ -15,6 +15,9 @@ There are to different types of passes that can be minted :
 * Gold Pass
 * Diamond Pass
 
+
+
+
 Each pass has a different in-game $FORGE token generation rate when it is staked.
 
 

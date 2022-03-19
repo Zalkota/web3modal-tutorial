@@ -19,11 +19,14 @@ By Staking your Blockforge pass, the first benefit you receive is the ability to
 
 The amount of $FORGE generated based off the time spent in-game when a user owns a  Staked “Gold Pass”  is calculated in the formula shown below:
 
-   STAKED GOLD PASS $BLKFgenerated =Seconds played * 0.0042 $FORGE Tokens per second
+* STAKED GOLD PASS $BLKFgenerated =Seconds played * 0.0042 $FORGE Tokens per second
+
 
 The amount of $FORGE generated based off the time spent in-game when a user owns a  Staked “Diamond Pass”  is calculated in the formula shown below:
 
-   DIAMOND PASS $BLKFgenerated =Seconds played * 0.0007 $FORGE Tokens per second  
+
+* DIAMOND PASS $BLKFgenerated =Seconds played * 0.0007 $FORGE Tokens per second  
+
 
 A Staked BlockForge pass will also enable access for the pass owner to purchase 80x80 plots of land within the Minecraft Server using the $FORGE token they have earned while playing in-game.
 

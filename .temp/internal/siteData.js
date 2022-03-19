@@ -8,6 +8,17 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
+      "title": "Block Token",
+      "frontmatter": {
+        "title": "Block Token",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/BlockToken.html",
+      "relativePath": "blockforge/BlockToken.md",
+      "key": "v-462cee7e",
+      "path": "/blockforge/BlockToken.html"
+    },
+    {
       "title": "Arenas",
       "frontmatter": {
         "title": "Arenas",
@@ -36,42 +47,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Staking Plots",
-      "frontmatter": {
-        "title": "Staking Plots",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/PlotStaking.html",
-      "relativePath": "blockforge/PlotStaking.md",
-      "key": "v-680fa670",
-      "path": "/blockforge/PlotStaking.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Plot Vulnerability",
-          "slug": "plot-vulnerability"
-        }
-      ]
-    },
-    {
-      "title": "Purchasing Plots on the server",
-      "frontmatter": {
-        "title": "Purchasing Plots on the server",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Plots.html",
-      "relativePath": "blockforge/Plots.md",
-      "key": "v-23739550",
-      "path": "/blockforge/Plots.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Plot Ranking",
-          "slug": "plot-ranking"
-        }
-      ]
-    },
-    {
       "title": "Timeline",
       "frontmatter": {
         "title": "Timeline",
@@ -83,15 +58,26 @@ export const siteData = {
       "path": "/blockforge/Project_Timeline.html"
     },
     {
-      "title": "Foreward",
+      "title": "Project Scope",
       "frontmatter": {
-        "title": "Foreward",
+        "title": "Project Scope",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-530b300d",
-      "path": "/blockforge/"
+      "regularPath": "/blockforge/Project_Scope.html",
+      "relativePath": "blockforge/Project_Scope.md",
+      "key": "v-2010d598",
+      "path": "/blockforge/Project_Scope.html"
+    },
+    {
+      "title": "Renting for BlockForge Pass Holders",
+      "frontmatter": {
+        "title": "Renting for BlockForge Pass Holders",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Renting_Battle_Pass.html",
+      "relativePath": "blockforge/Renting_Battle_Pass.md",
+      "key": "v-7f91be20",
+      "path": "/blockforge/Renting_Battle_Pass.html"
     },
     {
       "title": "Staking for BlockForge Pass Holders",
@@ -117,15 +103,33 @@ export const siteData = {
       ]
     },
     {
-      "title": "Project Scope",
+      "title": "Purchasing Plots on the server",
       "frontmatter": {
-        "title": "Project Scope",
+        "title": "Purchasing Plots on the server",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Project_Scope.html",
-      "relativePath": "blockforge/Project_Scope.md",
-      "key": "v-2010d598",
-      "path": "/blockforge/Project_Scope.html"
+      "regularPath": "/blockforge/Plots.html",
+      "relativePath": "blockforge/Plots.md",
+      "key": "v-23739550",
+      "path": "/blockforge/Plots.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Plot Ranking",
+          "slug": "plot-ranking"
+        }
+      ]
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-530b300d",
+      "path": "/blockforge/"
     },
     {
       "title": "BlockForge Battle Pass",
@@ -146,20 +150,9 @@ export const siteData = {
       ]
     },
     {
-      "title": "Renting for BlockForge Pass Holders",
+      "title": "Connect to the Island of Karniel",
       "frontmatter": {
-        "title": "Renting for BlockForge Pass Holders",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Renting_Battle_Pass.html",
-      "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-7f91be20",
-      "path": "/blockforge/Renting_Battle_Pass.html"
-    },
-    {
-      "title": "Placeholder text",
-      "frontmatter": {
-        "title": "Placeholder text",
+        "title": "Connect to the Island of Karniel",
         "pageClass": "content-page-class-general"
       },
       "regularPath": "/blockforge/placeholder.html",
@@ -168,9 +161,53 @@ export const siteData = {
       "path": "/blockforge/placeholder.html",
       "headers": [
         {
-          "level": 3,
-          "title": "Placeholder Text",
-          "slug": "placeholder-text"
+          "level": 2,
+          "title": "Minecraft Requirements",
+          "slug": "minecraft-requirements"
+        },
+        {
+          "level": 2,
+          "title": "Connect to the Island of Karniel",
+          "slug": "connect-to-the-island-of-karniel"
+        },
+        {
+          "level": 2,
+          "title": "Verify Your Wallet",
+          "slug": "verify-your-wallet"
+        },
+        {
+          "level": 2,
+          "title": "Server Limitations",
+          "slug": "server-limitations"
+        }
+      ]
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/welcome.html",
+      "relativePath": "blockforge/welcome.md",
+      "key": "v-7a14c370",
+      "path": "/blockforge/welcome.html"
+    },
+    {
+      "title": "Staking Plots",
+      "frontmatter": {
+        "title": "Staking Plots",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/PlotStaking.html",
+      "relativePath": "blockforge/PlotStaking.md",
+      "key": "v-680fa670",
+      "path": "/blockforge/PlotStaking.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Plot Vulnerability",
+          "slug": "plot-vulnerability"
         }
       ]
     },
@@ -193,7 +230,7 @@ export const siteData = {
             "details": "Information related to the BlockForge MineCraft Server"
           },
           {
-            "title": "GamePlay Documentation",
+            "title": "GamePlay",
             "details": "Information related to the BlockForge GamePlay"
           }
         ],
@@ -203,17 +240,6 @@ export const siteData = {
       "relativePath": "index.md",
       "key": "v-311a4f6a",
       "path": "/"
-    },
-    {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/welcome.html",
-      "relativePath": "blockforge/welcome.md",
-      "key": "v-7a14c370",
-      "path": "/blockforge/welcome.html"
     }
   ],
   "themeConfig": {

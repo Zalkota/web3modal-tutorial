@@ -73,7 +73,6 @@
   padding: 20px;
   background-color: #bd9989;
   color: #2c3e50;
-  border-radius: 10px;
   margin-bottom: 20px;
 }
 .timeline ul li:last-child {
@@ -81,7 +80,7 @@
 }
 .timeline-content h1 {
   font-weight: 1000;
-  font-size: 25px;
+  font-size: 10px;
   line-height: 30px;
   margin-bottom: 10px;
   text-align: left;
