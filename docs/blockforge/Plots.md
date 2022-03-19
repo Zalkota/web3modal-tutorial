@@ -2,15 +2,14 @@
 title: Purchasing Plots on the server
 pageClass: content-page-class-general
 ---
+
 # Purchasing Plots
 
-
-
-80x80 blocks of land will be available for purchase within the BlockForge Minecraft Server. These plots of land can be purchased with the use of $FORGE Tokens. Plots of land are stored as an ERC-721 token on the blockchain.
+100x100 blocks of land will be available for purchase within the BlockForge Minecraft Server. These plots of land can be purchased with the use of $FORGE Tokens. Plots of land are stored as an ERC-721 token on the blockchain.
 
 <plotImages/>
 
-There will be 10,000 plots of land for purchase within the BlockForge world. The price of plots are dynamic and vary based on the number of plots that have already been sold. The price of the plot is calculated dynamically using the formula shown below:
+There will be 10,000 plots of land for purchase within each BlockForge world within the BlockForge Universe. The price of plots are dynamic and vary based on the number of plots that have already been sold. The price of the plot is calculated dynamically using the formula shown below:
 
 <plotprice/>
 

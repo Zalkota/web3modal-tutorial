@@ -6,8 +6,8 @@ module.exports = {
     logo: '/logo.png',
     nav: [
       { text: 'WhitePaper', link: '/blockforge/' },
-      { text: 'Server Documentation', link: '/blockforge/placeholder' },
-      { text: 'Gameplay Documentation', link: '/blockforge/GameMechanics' }
+      { text: 'Gameplay Documentation', link: '/blockforge/GameMechanics' },
+      { text: 'Server Documentation', link: '/blockforge/placeholder' }
     ],
     sidebar: [
 
@@ -22,7 +22,16 @@ module.exports = {
           ['/blockforge/Staking_Battle_Pass', 'Staking Battle Pass'],
           ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
           ['/blockforge/Plots', 'Purchasing Plots'],
-          ['/blockforge/PlotStaking', 'Staking Plots']
+          ['/blockforge/PlotStaking', 'Staking Plots'],
+          ['/blockforge/BlockToken', '$FORGE Token']
+        ]
+      },
+      {
+        title: 'GamePlay',
+        collapsable: false,
+        children: [
+          ['/blockforge/BlockForgeUniverse','BlockForge Universe'],
+          ['/blockforge/GameMechanics','Arenas']
         ]
       },
       {
@@ -30,13 +39,6 @@ module.exports = {
         collapsable: false,
         children: [
           ['/blockforge/placeholder', 'Connect to Server']
-        ]
-      },
-      {
-        title: 'GamePlay',
-        collapsable: false,
-        children: [
-          ['/blockforge/GameMechanics','Arenas']
         ]
       }
     ]
