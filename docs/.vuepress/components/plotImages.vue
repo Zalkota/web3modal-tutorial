@@ -1,13 +1,13 @@
 <template>
   <div class = "Images">
     <div class="img1">
-      <img src="/pot_1.jpg" alt="plot1" style="width:250px;height:250px;">
+      <img src="/pot_1.jpg" alt="plot1" style="width:200px;height:201px;">
     </div>
     <div class="img1">
-      <img src="/plot_2.jpg" alt="token_back" style="width:250px;height:250px;">
+      <img src="/plot_2.jpg" alt="token_back" style="width:200px;height:201px;">
     </div>
     <div class="img1">
-      <img src="/plot4.jpg" alt="token_back" style="width:250px;height:250px;">
+      <img src="/plot4.jpg" alt="token_back" style="width:200px;height:201px;">
     </div>
   </div>
 </template>
