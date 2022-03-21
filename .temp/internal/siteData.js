@@ -15,7 +15,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/BlockForgeUniverse.html",
       "relativePath": "blockforge/BlockForgeUniverse.md",
-      "key": "v-4d7b331e",
+      "key": "v-243268d6",
       "path": "/blockforge/BlockForgeUniverse.html",
       "headers": [
         {
@@ -31,29 +31,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Forge Token",
-      "frontmatter": {
-        "title": "Forge Token",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/BlockToken.html",
-      "relativePath": "blockforge/BlockToken.md",
-      "key": "v-462cee7e",
-      "path": "/blockforge/BlockToken.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Why Earn $FORGE ?",
-          "slug": "why-earn-forge"
-        },
-        {
-          "level": 2,
-          "title": "Future Plans",
-          "slug": "future-plans"
-        }
-      ]
-    },
-    {
       "title": "Arenas",
       "frontmatter": {
         "title": "Arenas",
@@ -61,7 +38,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/GameMechanics.html",
       "relativePath": "blockforge/GameMechanics.md",
-      "key": "v-2b43f68c",
+      "key": "v-1bd28072",
       "path": "/blockforge/GameMechanics.html",
       "headers": [
         {
@@ -82,17 +59,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Project Scope",
-      "frontmatter": {
-        "title": "Project Scope",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Project_Scope.html",
-      "relativePath": "blockforge/Project_Scope.md",
-      "key": "v-2010d598",
-      "path": "/blockforge/Project_Scope.html"
-    },
-    {
       "title": "Purchasing Plots on the server",
       "frontmatter": {
         "title": "Purchasing Plots on the server",
@@ -100,7 +66,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/Plots.html",
       "relativePath": "blockforge/Plots.md",
-      "key": "v-23739550",
+      "key": "v-5ff2fdf0",
       "path": "/blockforge/Plots.html",
       "headers": [
         {
@@ -111,6 +77,51 @@ export const siteData = {
       ]
     },
     {
+      "title": "Forge Token",
+      "frontmatter": {
+        "title": "Forge Token",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/ForgeToken.html",
+      "relativePath": "blockforge/ForgeToken.md",
+      "key": "v-7970e514",
+      "path": "/blockforge/ForgeToken.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Why Earn $FORGE ?",
+          "slug": "why-earn-forge"
+        },
+        {
+          "level": 2,
+          "title": "Future Plans",
+          "slug": "future-plans"
+        }
+      ]
+    },
+    {
+      "title": "Project Scope",
+      "frontmatter": {
+        "title": "Project Scope",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Project_Scope.html",
+      "relativePath": "blockforge/Project_Scope.md",
+      "key": "v-51855150",
+      "path": "/blockforge/Project_Scope.html"
+    },
+    {
+      "title": "Renting for BlockForge Pass Holders",
+      "frontmatter": {
+        "title": "Renting for BlockForge Pass Holders",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Renting_Battle_Pass.html",
+      "relativePath": "blockforge/Renting_Battle_Pass.md",
+      "key": "v-74106eb0",
+      "path": "/blockforge/Renting_Battle_Pass.html"
+    },
+    {
       "title": "Timeline",
       "frontmatter": {
         "title": "Timeline",
@@ -118,26 +129,8 @@ export const siteData = {
       },
       "regularPath": "/blockforge/Project_Timeline.html",
       "relativePath": "blockforge/Project_Timeline.md",
-      "key": "v-4433111e",
+      "key": "v-3299e2d6",
       "path": "/blockforge/Project_Timeline.html"
-    },
-    {
-      "title": "Staking Plots",
-      "frontmatter": {
-        "title": "Staking Plots",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/PlotStaking.html",
-      "relativePath": "blockforge/PlotStaking.md",
-      "key": "v-680fa670",
-      "path": "/blockforge/PlotStaking.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Plot Vulnerability",
-          "slug": "plot-vulnerability"
-        }
-      ]
     },
     {
       "title": "Staking for BlockForge Pass Holders",
@@ -147,7 +140,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/Staking_Battle_Pass.html",
       "relativePath": "blockforge/Staking_Battle_Pass.md",
-      "key": "v-0bd5f894",
+      "key": "v-1196a04c",
       "path": "/blockforge/Staking_Battle_Pass.html",
       "headers": [
         {
@@ -163,26 +156,22 @@ export const siteData = {
       ]
     },
     {
-      "title": "Foreward",
+      "title": "Staking Plots",
       "frontmatter": {
-        "title": "Foreward",
+        "title": "Staking Plots",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-530b300d",
-      "path": "/blockforge/"
-    },
-    {
-      "title": "Renting for BlockForge Pass Holders",
-      "frontmatter": {
-        "title": "Renting for BlockForge Pass Holders",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Renting_Battle_Pass.html",
-      "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-7f91be20",
-      "path": "/blockforge/Renting_Battle_Pass.html"
+      "regularPath": "/blockforge/PlotStaking.html",
+      "relativePath": "blockforge/PlotStaking.md",
+      "key": "v-3aa17700",
+      "path": "/blockforge/PlotStaking.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Plot Vulnerability",
+          "slug": "plot-vulnerability"
+        }
+      ]
     },
     {
       "title": "BlockForge Battle Pass",
@@ -192,7 +181,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/battle-pass.html",
       "relativePath": "blockforge/battle-pass.md",
-      "key": "v-3c5c3fa8",
+      "key": "v-53135760",
       "path": "/blockforge/battle-pass.html",
       "headers": [
         {
@@ -203,6 +192,17 @@ export const siteData = {
       ]
     },
     {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-bfb49556",
+      "path": "/blockforge/"
+    },
+    {
       "title": "Connect to the Island of Karniel",
       "frontmatter": {
         "title": "Connect to the Island of Karniel",
@@ -210,7 +210,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/placeholder.html",
       "relativePath": "blockforge/placeholder.md",
-      "key": "v-36c4f34e",
+      "key": "v-4d7c0b06",
       "path": "/blockforge/placeholder.html",
       "headers": [
         {
@@ -243,7 +243,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/welcome.html",
       "relativePath": "blockforge/welcome.md",
-      "key": "v-7a14c370",
+      "key": "v-f149d9b0",
       "path": "/blockforge/welcome.html"
     },
     {
@@ -273,7 +273,7 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "index.md",
-      "key": "v-311a4f6a",
+      "key": "v-56ebc9bc",
       "path": "/"
     }
   ],
@@ -331,7 +331,7 @@ export const siteData = {
             "Staking Plots"
           ],
           [
-            "/blockforge/BlockToken",
+            "/blockforge/ForgeToken",
             "$FORGE Token"
           ]
         ]

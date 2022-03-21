@@ -7,8 +7,9 @@ pageClass: content-page-class-general
 Users have the ability to stake their plot to enable additional $FORGE token generation. When a user stakes their Plot, the plot is transferred to a staking contract for safe storage and a new staked Plot is minted to the user.
 A staked Plot can generate a base amount of 100 $FORGE tokens per day. Additional $FORGE Tokens can be generated based on the amount of “Diamond” present within the plot (rank of the plot). The token output increments by +50  $FORGE tokens per diamond found within a plot.
 
-Base Plot Generation = 100 $FORGE/Day
-Total Plot Generation = Base Plot Generation + (No of Diamonds * 50$FORGE/Diamond)
+* Base Plot Generation = 100 $FORGE/Day
+
+* Total Plot Generation = Base Plot Generation + (No of Diamonds * 50$FORGE/Diamond)
 
 When staking a plot, it opens the staked plot up for  Plot Vulnerability (Refer Next Section).
 

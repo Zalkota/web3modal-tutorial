@@ -27,14 +27,28 @@
           <div class="timeline-content">
             <h3 class="date">20th August, 2012</h3>
             <h1>Territory Release</h1>
-            <p> Staked BlockForge NFT holders will have access to purchase territories within the Minecraft Server.</p>
+            <p> Staked BlockForge NFT holders will have access to purchase territories within the Minecraft Server. Owners will also have the ability to rent their Territory to other users</p>
           </div>
         </li>
         <li>
           <div class="timeline-content">
             <h3 class="date">20th September, 2022</h3>
+            <h1>In-Game Marketplace</h1>
+            <p> In-Game Marketplace plugin that allows users to trade items using $FORGE </p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-content">
+            <h3 class="date">20th October, 2022</h3>
             <h1>Gold Pass Mint</h1>
             <p> Secondary Mint of 3000 Gold BlockForge NFT passes </p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-content">
+            <h3 class="date">20th November, 2022</h3>
+            <h1>New Worlds Release</h1>
+            <p> Server Sharding to Include more worlds for BlockForge users to explore, claim and earn </p>
           </div>
         </li>
       </ul>

@@ -23,7 +23,7 @@ module.exports = {
           ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
           ['/blockforge/Plots', 'Purchasing Plots'],
           ['/blockforge/PlotStaking', 'Staking Plots'],
-          ['/blockforge/BlockToken', '$FORGE Token']
+          ['/blockforge/ForgeToken', '$FORGE Token']
         ]
       },
       {

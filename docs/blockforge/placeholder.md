@@ -23,7 +23,7 @@ To enter the Island of Karniel, you will need to perform the following steps:
 
 2. Once Opened, Click on "Multiplayer" in the Home Page
 
-3. Select Direct Connection, and enter "mc.blockforge.xyz" in the IP address
+3. Select Direct Connection, and enter "mc.blockforgenft.xyz" in the IP address
 
 4. Click on "Connect" which will transport you to the Island of Karniel
 

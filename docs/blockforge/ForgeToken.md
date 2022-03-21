@@ -18,4 +18,6 @@ Each Blockforge pass holder can claim their $FORGE tokens earned at any time fro
 
 ## Future Plans
 
-The Development Team is also working creating more utility and value for $FORGE Tokens. We will update the community as the project progresses
+An in-game Marketplace will be developed for users to trade items using $FORGE.
+
+The Development Team is also working on creating more utility and value for $FORGE Tokens. We will update the community as the project progresses.

@@ -16,9 +16,12 @@
 
 .img {
   flex: 50%;
-  padding: 50px;
+  padding: 20px;
   border:1px;
+  height: 250px;
+  width: 250px;
   border-radius: 10%;
+  align: center;
 }
 
 @media screen and (max-width: 500px) {

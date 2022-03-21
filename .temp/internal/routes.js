@@ -4,80 +4,96 @@
 
 import { injectComponentOption, ensureAsyncComponentsLoaded } from '@app/util'
 import rootMixins from '@internal/root-mixins'
-import GlobalLayout from "C:\\Users\\Olaga\\Projects\\Blockforge-Docs\\node_modules\\@vuepress\\core\\lib\\client\\components\\GlobalLayout.vue"
+import GlobalLayout from "C:\\Users\\Olaga\\Projects\\BF_Docs\\node_modules\\@vuepress\\core\\lib\\client\\components\\GlobalLayout.vue"
 
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-4d7b331e",
+    name: "v-243268d6",
     path: "/blockforge/BlockForgeUniverse.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-4d7b331e").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-243268d6").then(next)
     },
   },
   {
-    name: "v-462cee7e",
-    path: "/blockforge/BlockToken.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-462cee7e").then(next)
-    },
-  },
-  {
-    name: "v-2b43f68c",
+    name: "v-1bd28072",
     path: "/blockforge/GameMechanics.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2b43f68c").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-1bd28072").then(next)
     },
   },
   {
-    name: "v-2010d598",
-    path: "/blockforge/Project_Scope.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2010d598").then(next)
-    },
-  },
-  {
-    name: "v-23739550",
+    name: "v-5ff2fdf0",
     path: "/blockforge/Plots.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-23739550").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-5ff2fdf0").then(next)
     },
   },
   {
-    name: "v-4433111e",
+    name: "v-7970e514",
+    path: "/blockforge/ForgeToken.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-7970e514").then(next)
+    },
+  },
+  {
+    name: "v-51855150",
+    path: "/blockforge/Project_Scope.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-51855150").then(next)
+    },
+  },
+  {
+    name: "v-74106eb0",
+    path: "/blockforge/Renting_Battle_Pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-74106eb0").then(next)
+    },
+  },
+  {
+    name: "v-3299e2d6",
     path: "/blockforge/Project_Timeline.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-4433111e").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-3299e2d6").then(next)
     },
   },
   {
-    name: "v-680fa670",
-    path: "/blockforge/PlotStaking.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-680fa670").then(next)
-    },
-  },
-  {
-    name: "v-0bd5f894",
+    name: "v-1196a04c",
     path: "/blockforge/Staking_Battle_Pass.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-0bd5f894").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-1196a04c").then(next)
     },
   },
   {
-    name: "v-530b300d",
+    name: "v-3aa17700",
+    path: "/blockforge/PlotStaking.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-3aa17700").then(next)
+    },
+  },
+  {
+    name: "v-53135760",
+    path: "/blockforge/battle-pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-53135760").then(next)
+    },
+  },
+  {
+    name: "v-bfb49556",
     path: "/blockforge/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-530b300d").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-bfb49556").then(next)
     },
   },
   {
@@ -85,43 +101,27 @@ export const routes = [
     redirect: "/blockforge/"
   },
   {
-    name: "v-7f91be20",
-    path: "/blockforge/Renting_Battle_Pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-7f91be20").then(next)
-    },
-  },
-  {
-    name: "v-3c5c3fa8",
-    path: "/blockforge/battle-pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-3c5c3fa8").then(next)
-    },
-  },
-  {
-    name: "v-36c4f34e",
+    name: "v-4d7c0b06",
     path: "/blockforge/placeholder.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-36c4f34e").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-4d7c0b06").then(next)
     },
   },
   {
-    name: "v-7a14c370",
+    name: "v-f149d9b0",
     path: "/blockforge/welcome.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-7a14c370").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-f149d9b0").then(next)
     },
   },
   {
-    name: "v-311a4f6a",
+    name: "v-56ebc9bc",
     path: "/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-311a4f6a").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-56ebc9bc").then(next)
     },
   },
   {

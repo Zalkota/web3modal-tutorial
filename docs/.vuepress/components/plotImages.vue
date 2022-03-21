@@ -19,7 +19,11 @@
 
 .img1 {
   flex: 33.33%;
-  padding: 5px;
+  padding: 10px;
+  height: inherit;
+  --tw-space-y-reverse: 0;
+  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
 }
 
 @media screen and (max-width: 300px) {
