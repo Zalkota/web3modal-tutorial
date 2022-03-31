@@ -7,10 +7,10 @@ $badgeWarning = darken(#ffe564, 35%)
 $badgeError = #DA596
 
 html {
-    background-color: #eff6ff !important;
+    background-color: #F7FAFC !important;
   }
 body {
-    background-color: #eff6ff !important;
+    background-color: #F7FAFC !important;
   }
 
 .theme-container.content-page-class-general{
@@ -23,8 +23,8 @@ body {
 
   // all content within read pages
   div.theme-default-content.content__default {
-    background-color: #eff6ff !important;
-    border-color:  #eff6ff;
+    background-color: #F7FAFC !important;
+    border-color:  #F7FAFC;
 
     position: relative;
     z-index: 0;
@@ -33,7 +33,7 @@ body {
   // main read pages
   main.page{
     font-family: 'Nunito';
-    background-color: #eff6ff;
+    background-color: #F7FAFC;
     background-size: cover;
     width: auto;
     height: 100vh;
@@ -51,14 +51,14 @@ body {
   // sidebar in read pages
   aside.sidebar{
     font-family: 'Russo One';
-    background-color: #eff6ff;
+    background-color: #F7FAFC;
     border-color: #DBEAFE;
   }
 
   //navbar in read pages
   header.navbar{
     font-family: 'Russo One';
-    background-color: #eff6ff;
+    background-color: #F7FAFC;
   }
 
   header.hero img{
@@ -66,7 +66,7 @@ body {
   }
   // Footer page navigator
   div.page-nav{
-    background-color: #eff6ff;
+    background-color: #F7FAFC;
     border-color: transparent;
     font-weight: 10;
     line-height: 2;
@@ -75,11 +75,11 @@ body {
 
   // Top header links in read pages
   div.links{
-    background-color: #eff6ff;
+    background-color: #F7FAFC;
   }
 
   footer{
-    background-color: #eff6ff;
+    background-color: #F7FAFC;
   }
   // all h1 in read pages
   h1 {
@@ -89,8 +89,15 @@ body {
 
   // all h2 in read pages
   h2{
+    padding-top: 6rem;
     font-family: 'Russo One';
   }
+
+  h3{
+    padding-top: 6rem;
+    font-family: 'Russo One';
+  }
+
 
   // all p in read pages
   p{
@@ -102,15 +109,38 @@ body {
   div.theme-default-content li {
     width: inherit;
     height: inherit;
-    padding: 10px;
+    padding: .5rem;
+    font-weight: 500;
+    padding-left: 1rem;
     --tw-space-y-reverse: 0;
+    color: #2A4365;
     margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
     margin-bottom: calc(1.5rem * calc(1-var(--tw-space-y-reverse)));
-    border: 1px solid #5d84a2;
+    border-radius: 0px;
+    border: 1px solid #BEE3F8;
+    list-style: none;
+    background-color: #EBF8FF;
+
+  }
+
+  // Lists within Read Pages
+  div.theme-default-content ul {
+    width: inherit;
+    height: inherit;
+    padding: 0rem;
+    margin: 0;
     border-radius: 0px;
     list-style: none;
-    background-color:#DBEAFE;
+  }
 
+  // Lists within Read Pages
+  div.theme-default-content p {
+    width: inherit;
+    height: inherit;
+    padding: 0rem;
+    margin: 0;
+    border-radius: 0px;
+    list-style: none;
   }
 
 // All these are for the timeline
@@ -121,7 +151,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 100px 0;
-    background-color: #eff6ff;
+    background-color: #F7FAFC;
   }
   .timeline {
     width: 80%;
@@ -152,14 +182,14 @@ body {
     line-height: 30px;
     margin-bottom: 10px;
     text-align: left;
-    color:#eff6ff;
+    color:#F7FAFC;
   }
 
   .timeline-content p {
     font-size: 16px;
     line-height: 30px;
     font-weight: 300;
-    color: #eff6ff;
+    color: #F7FAFC;
   }
   .timeline-content .date {
     font-size: 16px;
@@ -249,7 +279,7 @@ body {
   }
 
   p.description {
-    color:#eff6ff;
+    color:#F7FAFC;
   }
 
   main.home{
@@ -259,38 +289,41 @@ body {
   div.links{
     background-color: transparent;
     border-color: transparent;
-    color: #eff6ff;
+    color: #F7FAFC;
     font-family: 'Russo One';
   }
 
   div.footer{
     background-color: transparent;
     border-color: transparent;
-    color: #eff6ff;
+    color: #F7FAFC;
     font-family: 'Montserrat';
     font-weight: lighter;
   }
 
   h1{
-    color:#eff6ff;
+    color:#F7FAFC;
   }
   h2{
     font-family: 'Russo One';
-    color: #eff6ff;
+    color: #F7FAFC;
   }
-
+  h3{
+    font-family: 'Russo One';
+    color: #F7FAFC;
+  }
   p{
     font-family: 'Montserrat';
-    color: #eff6ff;
+    color: #F7FAFC;
   }
 
   p.description{
     font-family: 'Nunito';
-    color: #eff6ff;
+    color: #F7FAFC;
   }
 
   a.nav-link.action-button{
     font-family: 'Russo One';
-    color: #eff6ff;
+    color: #F7FAFC;
   }
 }

@@ -4,35 +4,53 @@ pageClass: content-page-class-general
 ---
 # Staking your Plot
 
-Users have the ability to stake their plot to enable additional $FORGE token generation. When a user stakes their Plot, the plot is transferred to a staking contract for safe storage and a new staked Plot is minted to the user.
-A staked Plot can generate a base amount of 100 $FORGE tokens per day. Additional $FORGE Tokens can be generated based on the amount of “Diamond” present within the plot (rank of the plot). The token output increments by +50  $FORGE tokens per diamond found within a plot.
+Users have the ability to stake their plot NFT to enable building in-game. When a user stakes their Plot, the plot is transferred to a staking contract for safe storage and a new staked Plot is minted to the user.
+A staked Plot can generates zero $FORGE tokens per day. Additional $FORGE Tokens can be generated based on the amount of “Diamond” present within the plot, but the plot must be vulnerable (see next section).
 
-* Base Plot Generation = 100 $FORGE/Day
+Renting a staked plot:
+*  When a staked plot is sold or transferred to another Ethereum address, it can be retrieved to the original owner after 7-days.
 
-* Total Plot Generation = Base Plot Generation + (No of Diamonds * 50$FORGE/Diamond)
+* When a plot is staked, but **NOT** vulnerable then it will not generate $FORGE tokens.
 
-When staking a plot, it opens the staked plot up for  Plot Vulnerability (Refer Next Section).
+<!-- * Total Plot Generation = Base Plot Generation + (No of Diamonds * 2 $FORGE/Diamond) -->
 
-## Plot Vulnerability
+* When a plot is staked, it opens the staked plot up for Plot Vulnerability (Refer Next Section).
 
-When a plot is vulnerable, other users will be allowed to enter the plot to mine for diamonds and other resources. Making a plot vulnerable also allows the plot owner to attack other vulnerable plots within the server for resources, especially Diamonds.
-This mechanism opens up a competitive environment for plot owners to increase their plots rank by attacking other vulnerable plots for diamonds, which in turn can increase the amount of $FORGE tokens their plot generates.
+## Plot Vulnerability & Raiding
 
-Some important points to keep in mind while staking a plot are:
-* When a plot is not staked, only the owner can modify(build or destroy) any blocks on the plot
+When a plot is staked and set as vulnerable, users will be able to modify blocks from the staked plot.
+Users are only able to modify the blocks of vulnerable plots, if they own at least one plot and set it as vulnerable.
+Staked plots can only be set vulnerable, if they contain at least one block of diamond.
+The token output per hour increments by +2 $FORGE tokens, per block of diamond, within a vulnerable plot.
 
-* When a plot is staked, it becomes vulnerable
+### Equation
+<tokenEquation/>
 
-* Other users are now allowed to modify(build and destroy) any blocks on the staked plot
+<!-- Making a plot vulnerable also allows the plot owner to attack other vulnerable plots within the server for resources, especially Diamonds. -->
 
-* Access Granted for the owner to attack other vulnerable plots on the Server, in order to obtain more resources
+This game mechanism opens up a competitive player-vs-player environment for plot owners to increase their token generation by raiding other vulnerable plots for diamonds, which in turn can increase the amount of $FORGE tokens their plot generates.
 
-* When a plot is staked, it earns a base amount of 100 $FORGE Tokens per day
+<!-- Important points to keep in mind while staking a plot are: -->
+We broke down the important takeaways here:
 
-* When a plot is staked it can earn additional tokens based off its rank
+* If a plot is not staked, it is not modifiable in-game.
 
-* Rank is determined by the amount of diamonds
+* If a plot is staked, it becomes modifiable by the verified owner.
 
-* Additional token generation is dependant on amount of diamonds within the staked plot
+* If a plot is staked and set as vulnerable by the owner, certain users are allowed to modify any blocks on the plot. See next point.
 
-* Each diamond found within a staked plot can increase daily earnings by 50 $FORGE
+* Users are only able to modify vulnerable staked plots, if they themselves own at least one staked vulnerable plot.
+
+* If a staked plot doesn't not contain any blocks of diamond, then it can not be made vulnerable.
+
+<!-- * Access Granted for the owner to attack other vulnerable plots on the Server, in order to obtain more resources -->
+
+* If a plot is staked and not set as vulnerable, it does not generate $FORGE Tokens.
+
+* If a plot is staked and vulnerable, it can generate $FORGE tokens based off its rank.
+
+* For each block of diamond located on the plot, the plot rank increments by 2.
+
+<!-- * Additional token generation is dependant on amount of diamonds within the staked plot -->
+
+* Rank is equal to the amount of $FORGE tokens it will generated per hour, if the plot is staked and set as vulnerable.

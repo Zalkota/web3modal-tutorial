@@ -1,14 +1,14 @@
 <template>
   <div class = "Images">
     <div class="img1">
-      <img src="/pot_1.jpg" alt="plot1" style="width:200px;height:201px;">
+      <img src="/pot_1.jpg" alt="plot1" style="max-width: 24rem; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1rem; margin-top: 1rem;">
     </div>
-    <div class="img1">
-      <img src="/plot_2.jpg" alt="token_back" style="width:200px;height:201px;">
-    </div>
-    <div class="img1">
+    <!-- <div class="img1">
+      <img src="/plot_2.jpg" alt="token_back" style="">
+    </div> -->
+    <!-- <div class="img1">
       <img src="/plot4.jpg" alt="token_back" style="width:200px;height:201px;">
-    </div>
+    </div> -->
   </div>
 </template>
 

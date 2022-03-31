@@ -18,7 +18,7 @@ module.exports = {
           ['/blockforge/welcome', 'Foreward'],
           ['/blockforge/Project_Timeline', 'Project Roadmap'],
           ['/blockforge/Project_Scope', 'Project Scope'],
-          ['/blockforge/battle-pass', 'Battle Pass Token'],
+          ['/blockforge/battle-pass', 'Battle Pass NFT'],
           ['/blockforge/Staking_Battle_Pass', 'Staking Battle Pass'],
           ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
           ['/blockforge/Plots', 'Purchasing Plots'],
