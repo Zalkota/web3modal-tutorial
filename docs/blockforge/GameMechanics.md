@@ -3,7 +3,7 @@ title: Arenas
 pageClass: content-page-class-general
 ---
 
-# Arenas
+# Introduction to Arenas
 Resources are limited to the available plots in the main world. To encourage multiplayer interaction and additional resources beyond that contained in the limited plots, we are adding custom arenas. To enter the arena, a portal is located at the main spawn within the blockforge mountain located on the main world. Each arena is a separate server. Arenas last 20 minutes the start of every hour and cost 100 FORGE tokens to enter. Up to 25 people can enter an arena at a time. If you die in an arena you lose all items in your inventory.
 
 

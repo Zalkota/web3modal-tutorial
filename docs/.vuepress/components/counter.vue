@@ -2,53 +2,67 @@
   <div class="container">
     <div class="timeline">
       <ul>
-        <li>
+          <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+            <div class="timeline-content">
+              <h3 class="date">1st April, 2022</h3>
+              <h1>Start Earning Tokens</h1>
+              <p>Earn $FORGE tokens while playing on the BlockForge Minecraft Server. <a href="https://blockforgenft.xyz/about">Link your account</a> and view your balance on the BlockForge Dashboard.</p>
+            </div>
+          </li>
+        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
           <div class="timeline-content">
             <h3 class="date">20th May, 2022</h3>
-            <h1>Whitelisting </h1>
-            <p> 500 Whitelist spots open for general public to sign up. Additional spots are reserved for Cosmic Caps NFT Holders and the MineCraft NFT Community. </p>
+            <h1>Whitelist Signup Starts</h1>
+            <p>Sign up for the <a href="https://blockforgenft.xyz/whitelist">whitelist here</a>. There are currently 2,500 whitelist spots available, with 3 different tiers of pricing.</p>
           </div>
         </li>
-        <li>
+        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
           <div class="timeline-content">
             <h3 class="date">20th June, 2022</h3>
-            <h1>Diamond Pass Mint</h1>
-            <p>Initial Mint of 3000 Diamond BlockForge NFT passes open to whitelisters and the public. </p>
+            <h1>Diamond Battle Pass Mint</h1>
+            <p>5,000 Diamond Battle Passes NFT passes will be available for mint. After mint, a battle pass will be required to earn $FORGE tokens and join on the BlockForge Minecraft server. </p>
           </div>
         </li>
-        <li>
+        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
           <div class="timeline-content">
             <h3 class="date">22nd June, 2022</h3>
-            <h1>$FORGE Token Release</h1>
-            <p> Release of the Play-to-earn ERC-20 $FORGE Token. Users can claim their tokens generated in-game. </p>
+            <h1>Redeem $FORGE Token</h1>
+            <p>$FORGE tokens will become redeemable for owners of the Diamond Battle Pass. <a href="https://blockforgenft.xyz/about">Link your Minecraft account</a> and start accruing today. </p>
           </div>
         </li>
-        <li>
+        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
           <div class="timeline-content">
             <h3 class="date">20th August, 2012</h3>
-            <h1>Territory Release</h1>
-            <p> Staked BlockForge NFT holders will have access to purchase territories within the Minecraft Server. Owners will also have the ability to rent their Territory to other users</p>
+            <h1>Claim In-Game Plots</h1>
+            <p>Claim 100x100 block plots of land on the Blockforge Minecraft server using $FORGE tokens. Diamond blocks located on the land, while in battle mode, will genereate additional $FORGE tokens for the owner.</p>
           </div>
         </li>
-        <li>
+        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
           <div class="timeline-content">
-            <h3 class="date">20th September, 2022</h3>
-            <h1>In-Game Marketplace</h1>
-            <p> In-Game Marketplace plugin that allows users to trade items using $FORGE </p>
+            <h3 class="date">TBD</h3>
+            <h1>Duel Arena Release</h1>
+            <p>Wager $FORGE tokens and battle against other users in a player vs player coliseum located on the BlockForge Minecraft server.</p>
           </div>
         </li>
-        <li>
+        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
           <div class="timeline-content">
-            <h3 class="date">20th October, 2022</h3>
-            <h1>Gold Pass Mint</h1>
-            <p> Secondary Mint of 3000 Gold BlockForge NFT passes </p>
+            <h3 class="date">TBD</h3>
+            <h1>Gold Battle Pass Mint</h1>
+            <p>2,500 Gold Battle Passes NFT passes will be available for mint. Earn $FORGE tokens based on the amount of Gold Blocks on your plots. </p>
           </div>
         </li>
-        <li>
+        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
           <div class="timeline-content">
-            <h3 class="date">20th November, 2022</h3>
+            <h3 class="date">TBD</h3>
             <h1>New Worlds Release</h1>
-            <p> Server Sharding to Include more worlds for BlockForge users to explore, claim and earn </p>
+            <p>We plan to release additional islands and server sharding.</p>
+          </div>
+        </li>
+        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+          <div class="timeline-content">
+            <h3 class="date">TBD</h3>
+            <h1>We Want to Hear What YOU want!</h1>
+            <p>Let us know in the BlockForge Discord what you would like added to the BlockForge Metaverse.</p>
           </div>
         </li>
       </ul>
@@ -98,17 +112,27 @@
   line-height: 30px;
   margin-bottom: 10px;
   text-align: left;
-  color:#2c2121;
+  color:#fff;
 }
 .timeline-content p {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 30px;
   font-weight: 300;
-  color: #2c2121;
+  color: #fff;
 }
+
+.timeline-content a {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #FAF089;
+}
+
 .timeline-content .date {
   font-size: 16px;
-  font-weight: 900;
+  color: #FAF089;
+  padding-top: 0;
+  font-weight: 500;
   margin-bottom: 10px;
   letter-spacing: 2px;
 }
@@ -157,9 +181,7 @@
     transform: translate(-50%, -50%);
     left: -38px;
   }
-  .timeline-content .date {
-    position: absolute;
-    top: -30px;
+  .timeline-content date {
   }
   .timeline ul li:hover::before {
     background-color: aqua;

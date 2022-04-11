@@ -6,8 +6,8 @@ pageClass: content-page-class-general
 # Purchasing Plots
 
 
-The current map of Blockforge, name the Island of Karniel, is 9,000 x 9,000 blocks in size, or 525 Chunks.  
-The map of Blockforge is evenly divided into 8,100 unique plots of land. A plot is defined as an area of 100 x 100 blocks. BlockForge users can purchase multiple territories to expand their empire within the Universe. These Territories can be purchased with the use of $FORGE Tokens. Territories are stored as an ERC-721 token on the Ethereum Blockchain. Plots can be staked by the owner of the ERC721 can then modify the plot.
+The current map of Blockforge, name the Island of Karniel, is 10,240 x 10,240 blocks in size.  
+The map of Blockforge is evenly divided into 6,400 unique plots of land. A plot is defined as an area of 128x128 blocks. BlockForge users can purchase multiple territories to expand their empire within the Universe. These plots can be purchased with the use of $FORGE Tokens. Plots are stored as an ERC-721 token on the Ethereum Blockchain. Plots can be staked by the owner of the ERC721 can then modify the plot.
 
 <plotImages/>
 
@@ -24,7 +24,7 @@ Plots are given a rank number based on the amount of diamond blocks located on t
 <!-- The plot must be staked and set to vulnerable to generate $FORGE tokens.  -->
 <!-- Plot rankings can affect the amount of tokens the plot can generate.  -->
 <!-- A plot with a higher rank will generate more $FORGE tokens per day.  -->
-Players can increase the rank of their land by placing diamond blocks on their plot. Once a staked plot contains at least one block of diamond, then it can be set as vulnerable by the owner. When a staked plot is vulnerable, then it will generate $FORGE token for the owner.
+Players can increase the rank of their land by placing diamond blocks on their plot. Once a staked plot contains at least one block of diamond, then it can be set as vulnerable by the owner. When a staked plot is vulnerable, then it will generate $FORGE tokens for the owner.
 
 
 ## Island of Karniel

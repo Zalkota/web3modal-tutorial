@@ -25,8 +25,12 @@ The BlockForge Team in no way affiliated with, endorsed by, or a partner of Mine
 
 The BlockForge team is working very hard and diligently to create a Minecraft server that integrates Non-fungible Tokens (NFT) and crypto assets into its gameplay experience. However, there are many risks involved, both for the Blockforge team and users due to the nature of blockchain and cryptographic security. Here are some of the risks we currently want to bring to our users' attention:
 * Mojang closes down our server for integrating blockchain technology.
-* There could be a vulnerability in one of or Ethereum smart contracts which leads to a loss of users funds or the BlockForge team funds.
+* An unknown vulnerability in one of or Ethereum smart contracts could lead to a loss of users funds or the BlockForge team funds.
 * In the case that not enough Battle Pass NFT are minted or a majority of development funds are stolen/lost, the BlockForge team will not be able to continue development and hosting the necessary server to run the Minecraft game server. It is in our best interest to not allow this to occur.
 
 
 We are not responsible for your BlockForge NFTs or $FORGE tokens once they are inside your Ethereum wallet.
+
+# Server Limitations
+
+The server is currently limited to having only 256 players online at a time. The Blockforge Development team is working on creating a "no-limit" server where there is no cap on the max amount of players.

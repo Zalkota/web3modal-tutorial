@@ -17,7 +17,7 @@ module.exports = {
         children: [
           ['/blockforge/welcome', 'Foreward'],
           ['/blockforge/Project_Timeline', 'Project Roadmap'],
-          ['/blockforge/Project_Scope', 'Project Scope'],
+          ['/blockforge/Battle_Mode', 'Battle Mode'],
           ['/blockforge/battle-pass', 'Battle Pass NFT'],
           ['/blockforge/Staking_Battle_Pass', 'Staking Battle Pass'],
           ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
@@ -30,7 +30,7 @@ module.exports = {
         title: 'GamePlay',
         collapsable: false,
         children: [
-          ['/blockforge/BlockForgeUniverse','BlockForge Universe'],
+          ['/blockforge/BlockForgeUniverse','Defense Of The Diamonds'],
           ['/blockforge/GameMechanics','Arenas']
         ]
       },
@@ -38,7 +38,7 @@ module.exports = {
         title: 'Server Documentation',
         collapsable: false,
         children: [
-          ['/blockforge/placeholder', 'Connect to Server']
+          ['/blockforge/ServerDocumentation', 'Connect to Server']
         ]
       }
     ]

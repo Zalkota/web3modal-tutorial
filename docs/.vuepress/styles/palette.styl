@@ -94,7 +94,6 @@ body {
   }
 
   h3{
-    padding-top: 6rem;
     font-family: 'Russo One';
   }
 
@@ -188,14 +187,14 @@ body {
   .timeline-content p {
     font-size: 16px;
     line-height: 30px;
-    font-weight: 300;
+    font-weight: 500;
     color: #F7FAFC;
   }
-  .timeline-content .date {
+  .timeline-content date {
     font-size: 16px;
     font-weight: 900;
     margin-bottom: 10px;
-    letter-spacing: 2px;
+    letter-spacing: 10px;
   }
 
   @media only screen and (min-width: 768px) {
@@ -207,7 +206,7 @@ body {
       transform: translateX(-50%);
       width: 2px;
       height: 100%;
-      background-color: #111827;
+      background-color: #718096;
     }
     .timeline ul li {
       width: 50%;
@@ -232,7 +231,7 @@ body {
       height: 20px;
       width: 20px;
       border-radius: 50%;
-      background-color: #111827;
+      background-color: #63B3ED;
       top: 0px;
     }
     .timeline ul li:nth-child(odd)::before {
@@ -243,9 +242,8 @@ body {
       transform: translate(-50%, -50%);
       left: -41px;
     }
-    .timeline-content .date {
-      position: absolute;
-      top: -30px;
+    .timeline-content date {
+
     }
     .timeline ul li:hover::before {
       background-color: #4299e1;

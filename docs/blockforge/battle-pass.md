@@ -21,7 +21,7 @@ Owners of the NFT, will be able to download the Minecraft skin on our website. T
 
 ## Whitelist
 Sign up for one of the three available tiers of whitelists for the Diamond Battle Pass. The three whitelists differ by spots available, mint cost, and requirement to reserve a spot.
-A maximum of 5,000 Diamond Battle Pass NFTs will ever be created. Sign up for the [whitelist](https://www.blockforgenft.xyz/whitelist) here.
+A maximum of 5,000 Diamond Battle Pass NFTs will ever be created. Sign up for the [whitelist](https://www.blockforgenft.xyz/whitelist)
 
 * Requirement: **Cosmic Cap Owners**; Mint Price: **FREE**; Spots available: **200**.
 * Requirement: **Critterz and NFT World Token Holders**; Mint Price: **0.01 Ether**; Spots available: **500**.
@@ -49,6 +49,27 @@ Ownership of a Blockforge pass will allow the owner to earn roughly 15-25 $FORGE
 * Unique Minecraft skin
 * Enables Battle Mode
 
+
+
+* Membership Access to earn $FORGE
+
+* Access to generate $FORGE tokens by playing in the Minecraft Server
+
+* Staking Access to allow purchase of land plot
+
+* Stakers can generate additional $FORGE tokens when in-game
+
+* Stakers can claim land plots with the use of $FORGE tokens
+
+* Plot owners can generate additional $FORGE tokens when in-game
+
+* Plot owners can increase their in-game $FORGE generation by increasing the plot rank
+
+* Plot rank is determined based off the resources available within the plot
+
+* Rent Pass to other players to help receive a share of their generated $FORGE
+
+* Plot owners can rent their BlockForge pass to other players, and receive a share of the $FORGE tokens generated when the renter is in-game
 
 <!--
 * In order to play on the Blockforge Minecraft server, you must own or rent at least one staked Battle pass.

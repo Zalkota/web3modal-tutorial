@@ -1,22 +1,15 @@
 ---
-title: BlockForge Universe
+title: DOTD
 pageClass: content-page-class-general
 ---
 
-# Introduction to the BlockForge Universe
-The Blockforge will be designed to support multiple worlds that users can explore and occupy. Each World will run on its own server and will be connected to one another through sharding. Each world will have its own unique characters and will have territories for users to purchase with $FORGE.
+# Introduction to the Defense of the Diamonds
+BlockForge takes place on an island called Karniel. The world is 10,240 x 10,240 blocks and has a user spawn located at [-500, 150, -500]. The world is divided into 6,400 plots and each plot is 128x128 blocks in size. Plots will be claimable in exchange for $FORGE tokens; the cost of each plot is determined by the number of previously claimed plots. Plot owners have the ability to enable Battle Mode, which allows other users, who are also in battle mode, to attack their plot. In addition, the owner of the plot in battle mode generates $FORGE tokens equal to double the amount of Diamond Blocks located on their plot. The requirements to enable battle mode on a plot: ownership of a plot NFT, ownership of a Battle Pass NFT, and a minimum of 1 diamond block on the plot.
+
+<!-- A map of the Island can be found [here](https://map.blockforgenft.xyz/) -->
 
 
 
-## Island of Karniel
 
-The Island of Karniel will be the first world that is available for users to Explore. The world is 10,000x10,000 large with 10,000 territories available for purchase. Each Territory will be a dimension 100x100 blocks that are available for purchase. Within the Island of Karniel, the user can find the BlockForge Castle at [-500 150 -500]. A map of the Island can be found [here](https://map.blockforgenft.xyz/)
-
-
-
-<castle/>
-
-
-## Future Worlds
-
-The Blockforge Development Team is working on releasing more worlds that users can explore and purchase territories within.
+## Mission
+The goal is simple, raid other users for their diamond blocks, while simultaneously defending the dimaonds on your plots. If you happen to need a break from waging war with your neighbor, then simply turn off battlemode, however it will come at the expense of your $FORGE token generation.
