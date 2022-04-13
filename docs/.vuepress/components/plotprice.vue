@@ -1,7 +1,7 @@
 <template>
   <div class = "Images">
     <div class="img1">
-      <img src="/Plot_Graph.png" alt="plot_pricing" style="width:700px;height:600px;">
+      <img src="/Plot_Graph.png" alt="plot_pricing" style="margin-left: auto; margin-right: auto;">
     </div>
   </div>
 </template>

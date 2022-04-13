@@ -1,7 +1,7 @@
-import m0 from "C:\\Users\\domin\\Documents\\dapps\\blockforge\\Blockforge-Docs\\.temp\\app-enhancers\\0.js"
-import m1 from "C:\\Users\\domin\\Documents\\dapps\\blockforge\\Blockforge-Docs\\.temp\\app-enhancers\\data-block.js"
-import m2 from "C:\\Users\\domin\\Documents\\dapps\\blockforge\\Blockforge-Docs\\.temp\\app-enhancers\\global-components-6.js"
-import m3 from "C:\\Users\\domin\\Documents\\dapps\\blockforge\\Blockforge-Docs\\.temp\\app-enhancers\\1.js"
+import m0 from "G:\\dapps\\blockforge\\documentation\\Blockforge-Docs\\.temp\\app-enhancers\\0.js"
+import m1 from "G:\\dapps\\blockforge\\documentation\\Blockforge-Docs\\.temp\\app-enhancers\\data-block.js"
+import m2 from "G:\\dapps\\blockforge\\documentation\\Blockforge-Docs\\.temp\\app-enhancers\\global-components-37.js"
+import m3 from "G:\\dapps\\blockforge\\documentation\\Blockforge-Docs\\.temp\\app-enhancers\\1.js"
 
 export default [
   m0,

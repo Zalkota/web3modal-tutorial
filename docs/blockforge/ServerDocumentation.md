@@ -18,7 +18,7 @@ To enter BlockForge's main server, The Island of Karniel, following these steps:
 
 * Select **Direct Connection**
 
-* Enter **mc.blockforgenft.xyz** as the Serve Address.
+* Enter **mc.blockforgenft.xyz** as the Server Address.
 
 * Select **Join Server**
 

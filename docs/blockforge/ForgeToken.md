@@ -11,13 +11,17 @@ pageClass: content-page-class-general
 
 Earning $FORGE tokens will allow BlockForge Pass holders the ability to purchase plots of land within the Minecraft Server. Earning $FORGE tokens can be beneficial since there are only a limited amount of plots that can be purchased within the Minecraft Server.
 
-$FORGE Tokens can also be used to trade in-game items within the Blockforge Universe. The development team plans to implement an in-game marketplace where $FORGE tokens can be used to transact. $FORGE tokens will also be required to use participate in the Resourse, duel, and quest arenas.
+$FORGE Tokens can also be used to trade in-game items within the Blockforge Universe. The development team plans to implement an in-game marketplace where $FORGE tokens can be used to transact. $FORGE tokens will also be required to enter the following arenas:
+* Resource Harvesting Arena
+* Dueling Arena
+* Questing Arena
 
-Each Blockforge pass holder can claim their $FORGE tokens earned at any time from the **Website Dashboard** or the **Token Smart Contract**.
 
+## Redeem Forge Tokens
 
-## Future Plans
+Each Blockforge pass holder can claim their $FORGE tokens earned at any time from the **Dashboard** or the **Token Smart Contract**.
 
-An in-game Marketplace will be developed for users to trade items using $FORGE.
+To redeem $FORGE tokens from the website, visit the BlockForgeNFT.xyz website, sign in with with a web3 wallet, and go to the **Dashboard**.
+On the top left, click on **REDEEM $FORGE TOKENS**.
 
-The Development Team is also working on creating more utility and value for $FORGE Tokens. We will update the community as the project progresses.
+<RedeemTokens />

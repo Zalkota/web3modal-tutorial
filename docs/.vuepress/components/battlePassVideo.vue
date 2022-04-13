@@ -8,7 +8,7 @@
                 </video>
             </div>
             <div class="card-container">
-                <h3>Monetize your Diamond Blocks and receive $FORGE tokens.</h3>
+                <h3>Defend your Diamond Blocks and receive $FORGE tokens.</h3>
 
                 <div class="color-blue">
                     <h5><span class="color-blue">-</span> Access to Blockforge Minecraft Server</h5>

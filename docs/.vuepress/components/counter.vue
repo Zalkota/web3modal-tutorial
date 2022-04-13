@@ -2,63 +2,63 @@
   <div class="container">
     <div class="timeline">
       <ul>
-          <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+          <li style="background-color: #2d3748;">
             <div class="timeline-content">
               <h3 class="date">1st April, 2022</h3>
               <h1>Start Earning Tokens</h1>
               <p>Earn $FORGE tokens while playing on the BlockForge Minecraft Server. <a href="https://blockforgenft.xyz/about">Link your account</a> and view your balance on the BlockForge Dashboard.</p>
             </div>
           </li>
-        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">20th May, 2022</h3>
             <h1>Whitelist Signup Starts</h1>
             <p>Sign up for the <a href="https://blockforgenft.xyz/whitelist">whitelist here</a>. There are currently 2,500 whitelist spots available, with 3 different tiers of pricing.</p>
           </div>
         </li>
-        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">20th June, 2022</h3>
             <h1>Diamond Battle Pass Mint</h1>
             <p>5,000 Diamond Battle Passes NFT passes will be available for mint. After mint, a battle pass will be required to earn $FORGE tokens and join on the BlockForge Minecraft server. </p>
           </div>
         </li>
-        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">22nd June, 2022</h3>
             <h1>Redeem $FORGE Token</h1>
             <p>$FORGE tokens will become redeemable for owners of the Diamond Battle Pass. <a href="https://blockforgenft.xyz/about">Link your Minecraft account</a> and start accruing today. </p>
           </div>
         </li>
-        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">20th August, 2012</h3>
             <h1>Claim In-Game Plots</h1>
             <p>Claim 100x100 block plots of land on the Blockforge Minecraft server using $FORGE tokens. Diamond blocks located on the land, while in battle mode, will genereate additional $FORGE tokens for the owner.</p>
           </div>
         </li>
-        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">TBD</h3>
             <h1>Duel Arena Release</h1>
             <p>Wager $FORGE tokens and battle against other users in a player vs player coliseum located on the BlockForge Minecraft server.</p>
           </div>
         </li>
-        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">TBD</h3>
             <h1>Gold Battle Pass Mint</h1>
             <p>2,500 Gold Battle Passes NFT passes will be available for mint. Earn $FORGE tokens based on the amount of Gold Blocks on your plots. </p>
           </div>
         </li>
-        <li style="background: linear-gradient(135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">TBD</h3>
             <h1>New Worlds Release</h1>
             <p>We plan to release additional islands and server sharding.</p>
           </div>
         </li>
-        <li style="background: linear-gradient(-135deg, rgba(99,179,237,1) 0%, rgba(49,130,206,1) 49%, rgba(44,82,130,1) 100%);">
+        <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">TBD</h3>
             <h1>We Want to Hear What YOU want!</h1>
@@ -125,12 +125,12 @@
   font-size: 16px;
   line-height: 30px;
   font-weight: 700;
-  color: #FAF089;
+  color: #63B3ED;
 }
 
 .timeline-content .date {
   font-size: 16px;
-  color: #FAF089;
+  color: #63B3ED;
   padding-top: 0;
   font-weight: 500;
   margin-bottom: 10px;
