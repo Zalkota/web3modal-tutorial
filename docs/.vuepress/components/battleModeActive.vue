@@ -2,7 +2,7 @@
     <div class="">
         <div class="flex">
             <div class="card">
-                <img src="/pot_1.jpg" alt="plot1" style="margin-left: auto; margin-right: auto;">
+                <img src="/pot_1.jpg" alt="plot1" style=" display: block; margin-left: auto; margin-right: auto;">
                 <div class="card-container">
                     <h3>Battle Mode: <span class="color-red">  <b>DISABLED</b> </span> </h3>
                     <h5>$FORGE Tokens per hour: <span class="color-blue"> <b>ZERO</b> </span></h5>

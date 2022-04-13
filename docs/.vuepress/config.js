@@ -21,7 +21,7 @@ module.exports = {
           ['/blockforge/battle-pass', 'Battle Pass NFT'],
           ['/blockforge/Staking_Battle_Pass', 'Staking Battle Pass'],
           ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
-          ['/blockforge/Plots', 'Purchasing Plots'],
+          ['/blockforge/Plots', 'Claiming Plots'],
           ['/blockforge/PlotStaking', 'Staking Plots'],
           ['/blockforge/ForgeToken', '$FORGE Token']
         ]

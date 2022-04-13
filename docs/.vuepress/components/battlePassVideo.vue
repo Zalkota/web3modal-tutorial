@@ -1,28 +1,15 @@
 <template>
   <div style="margin-right: 3rem; margin-left: 3rem;">
-        <div class="flex card ">
+        <div class="flex card"  style="margin-top: 3rem;">
             <div class="">
-                <!-- <video style="max-width: 44.2rem; margin-left: auto; margin-right: auto;" controls>
+                <video style="display: block; max-width: 44.2rem; max-width: 612px;" controls>
                      <source src="/battlepass.mp4" type="video/mp4" >
                      Your browser does not support HTML5 video.
-                </video> -->
+                </video>
             </div>
             <div class="card-container">
-                <h3>The Battle Pass</h3>
-                <p class="color-light">The BlockForge Battle Pass NFT is an ERC721 Token that will be distributed via a public mint. Each Battle Pass NFT is unique, in that it will have a unique number on the front and a unique Minecraft skin on the back.
-                </p>
-                <div class="color-blue">
-                    <h5><span class="color-blue">-</span> Access to Blockforge Minecraft Server</h5>
-                    <h5><span class="color-blue">-</span> Earn $FORGE tokens while playing Minecraft</h5>
-                    <h5><span class="color-blue">-</span> Rentable to anyone for aminimum of 7 days</h5>
-                    <h5><span class="color-blue">-</span> Unique Minecraft skin</h5>
-                    <h5><span class="color-blue">-</span> Enables Battle Mode</h5>
-                </div>
-            </div>
-            <div class="card-container">
-                <h3>The Battle Pass</h3>
-                <p class="color-light">The BlockForge Battle Pass NFT is an ERC721 Token that will be distributed via a public mint. Each Battle Pass NFT is unique, in that it will have a unique number on the front and a unique Minecraft skin on the back.
-                </p>
+                <h3>Monetize your Diamond Blocks and receive $FORGE tokens.</h3>
+
                 <div class="color-blue">
                     <h5><span class="color-blue">-</span> Access to Blockforge Minecraft Server</h5>
                     <h5><span class="color-blue">-</span> Earn $FORGE tokens while playing Minecraft</h5>
@@ -32,10 +19,6 @@
                 </div>
             </div>
         </div>
-
-
-
-
   </div>
 
 
@@ -79,7 +62,7 @@
 
 .flex {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 

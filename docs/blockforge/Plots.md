@@ -1,9 +1,9 @@
 ---
-title: Purchasing Plots on the server
+title: Claiming Plots on the server
 pageClass: content-page-class-general
 ---
 
-# Purchasing Plots
+# Claiming Plots
 
 
 The current map of Blockforge, name the Island of Karniel, is 10,240 x 10,240 blocks in size.  
@@ -25,6 +25,18 @@ Plots are given a rank number based on the amount of diamond blocks located on t
 <!-- Plot rankings can affect the amount of tokens the plot can generate.  -->
 <!-- A plot with a higher rank will generate more $FORGE tokens per day.  -->
 Players can increase the rank of their land by placing diamond blocks on their plot. Once a staked plot contains at least one block of diamond, then it can be set as vulnerable by the owner. When a staked plot is vulnerable, then it will generate $FORGE tokens for the owner.
+
+
+
+* Plot owners can generate additional $FORGE tokens when in-game
+
+* Plot owners can increase their in-game $FORGE generation by increasing the plot rank
+
+* Plot rank is determined based off the resources available within the plot
+
+* Rent Pass to other players to help receive a share of their generated $FORGE
+
+* Plot owners can rent their BlockForge pass to other players, and receive a share of the $FORGE tokens generated when the renter is in-game
 
 
 ## Island of Karniel

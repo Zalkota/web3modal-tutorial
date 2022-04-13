@@ -8,6 +8,17 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
+      "title": "Battle Mode",
+      "frontmatter": {
+        "title": "Battle Mode",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Battle_Mode.html",
+      "relativePath": "blockforge/Battle_Mode.md",
+      "key": "v-52bb137f",
+      "path": "/blockforge/Battle_Mode.html"
+    },
+    {
       "title": "DOTD",
       "frontmatter": {
         "title": "DOTD",
@@ -15,7 +26,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/BlockForgeUniverse.html",
       "relativePath": "blockforge/BlockForgeUniverse.md",
-      "key": "v-60fe7b70",
+      "key": "v-06d7843d",
       "path": "/blockforge/BlockForgeUniverse.html",
       "headers": [
         {
@@ -26,17 +37,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Battle Mode",
-      "frontmatter": {
-        "title": "Battle Mode",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Battle_Mode.html",
-      "relativePath": "blockforge/Battle_Mode.md",
-      "key": "v-04ba1e6c",
-      "path": "/blockforge/Battle_Mode.html"
-    },
-    {
       "title": "Forge Token",
       "frontmatter": {
         "title": "Forge Token",
@@ -44,7 +44,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/ForgeToken.html",
       "relativePath": "blockforge/ForgeToken.md",
-      "key": "v-778b0ae8",
+      "key": "v-e3735246",
       "path": "/blockforge/ForgeToken.html",
       "headers": [
         {
@@ -67,7 +67,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/GameMechanics.html",
       "relativePath": "blockforge/GameMechanics.md",
-      "key": "v-4b4aa064",
+      "key": "v-3d786099",
       "path": "/blockforge/GameMechanics.html",
       "headers": [
         {
@@ -88,48 +88,14 @@ export const siteData = {
       ]
     },
     {
-      "title": "Staking Plots",
+      "title": "Claiming Plots on the server",
       "frontmatter": {
-        "title": "Staking Plots",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/PlotStaking.html",
-      "relativePath": "blockforge/PlotStaking.md",
-      "key": "v-d7eda51c",
-      "path": "/blockforge/PlotStaking.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Plot Vulnerability & Raiding",
-          "slug": "plot-vulnerability-raiding"
-        },
-        {
-          "level": 3,
-          "title": "Equation",
-          "slug": "equation"
-        }
-      ]
-    },
-    {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-32a84dba",
-      "path": "/blockforge/"
-    },
-    {
-      "title": "Purchasing Plots on the server",
-      "frontmatter": {
-        "title": "Purchasing Plots on the server",
+        "title": "Claiming Plots on the server",
         "pageClass": "content-page-class-general"
       },
       "regularPath": "/blockforge/Plots.html",
       "relativePath": "blockforge/Plots.md",
-      "key": "v-1dd0c4fa",
+      "key": "v-80b0e1a2",
       "path": "/blockforge/Plots.html",
       "headers": [
         {
@@ -150,6 +116,51 @@ export const siteData = {
       ]
     },
     {
+      "title": "Staking Plots",
+      "frontmatter": {
+        "title": "Staking Plots",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/PlotStaking.html",
+      "relativePath": "blockforge/PlotStaking.md",
+      "key": "v-2dbd5fb2",
+      "path": "/blockforge/PlotStaking.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Plot Vulnerability & Raiding",
+          "slug": "plot-vulnerability-raiding"
+        },
+        {
+          "level": 3,
+          "title": "Equation",
+          "slug": "equation"
+        }
+      ]
+    },
+    {
+      "title": "BlockForge RoadMap",
+      "frontmatter": {
+        "title": "BlockForge RoadMap",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Project_Timeline.html",
+      "relativePath": "blockforge/Project_Timeline.md",
+      "key": "v-476ac9bd",
+      "path": "/blockforge/Project_Timeline.html"
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-d5806164",
+      "path": "/blockforge/"
+    },
+    {
       "title": "Renting for BlockForge Pass Holders",
       "frontmatter": {
         "title": "Renting for BlockForge Pass Holders",
@@ -157,8 +168,70 @@ export const siteData = {
       },
       "regularPath": "/blockforge/Renting_Battle_Pass.html",
       "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-51d4e4cc",
+      "key": "v-d878b362",
       "path": "/blockforge/Renting_Battle_Pass.html"
+    },
+    {
+      "title": "Connect to the Island of Karniel",
+      "frontmatter": {
+        "title": "Connect to the Island of Karniel",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/ServerDocumentation.html",
+      "relativePath": "blockforge/ServerDocumentation.md",
+      "key": "v-4c5b4165",
+      "path": "/blockforge/ServerDocumentation.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Download Minecraft",
+          "slug": "download-minecraft"
+        },
+        {
+          "level": 2,
+          "title": "Connect to the Island of Karniel",
+          "slug": "connect-to-the-island-of-karniel"
+        },
+        {
+          "level": 2,
+          "title": "Verify Your Wallet",
+          "slug": "verify-your-wallet"
+        }
+      ]
+    },
+    {
+      "title": "Staking for BlockForge Pass Holders",
+      "frontmatter": {
+        "title": "Staking for BlockForge Pass Holders",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Staking_Battle_Pass.html",
+      "relativePath": "blockforge/Staking_Battle_Pass.md",
+      "key": "v-413b041a",
+      "path": "/blockforge/Staking_Battle_Pass.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "How to Stake",
+          "slug": "how-to-stake"
+        },
+        {
+          "level": 2,
+          "title": "How to Unstake",
+          "slug": "how-to-unstake"
+        }
+      ]
+    },
+    {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/welcome.html",
+      "relativePath": "blockforge/welcome.md",
+      "key": "v-f42a9462",
+      "path": "/blockforge/welcome.html"
     },
     {
       "title": "BlockForge Battle Pass",
@@ -168,7 +241,7 @@ export const siteData = {
       },
       "regularPath": "/blockforge/battle-pass.html",
       "relativePath": "blockforge/battle-pass.md",
-      "key": "v-046d4052",
+      "key": "v-59856307",
       "path": "/blockforge/battle-pass.html",
       "headers": [
         {
@@ -199,68 +272,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "BlockForge RoadMap",
-      "frontmatter": {
-        "title": "BlockForge RoadMap",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Project_Timeline.html",
-      "relativePath": "blockforge/Project_Timeline.md",
-      "key": "v-6a3a7570",
-      "path": "/blockforge/Project_Timeline.html"
-    },
-    {
-      "title": "Connect to the Island of Karniel",
-      "frontmatter": {
-        "title": "Connect to the Island of Karniel",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/ServerDocumentation.html",
-      "relativePath": "blockforge/ServerDocumentation.md",
-      "key": "v-e0a5aea0",
-      "path": "/blockforge/ServerDocumentation.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Download Minecraft",
-          "slug": "download-minecraft"
-        },
-        {
-          "level": 2,
-          "title": "Connect to the Island of Karniel",
-          "slug": "connect-to-the-island-of-karniel"
-        },
-        {
-          "level": 2,
-          "title": "Verify Your Wallet",
-          "slug": "verify-your-wallet"
-        }
-      ]
-    },
-    {
-      "title": "Staking for BlockForge Pass Holders",
-      "frontmatter": {
-        "title": "Staking for BlockForge Pass Holders",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Staking_Battle_Pass.html",
-      "relativePath": "blockforge/Staking_Battle_Pass.md",
-      "key": "v-22b4653e",
-      "path": "/blockforge/Staking_Battle_Pass.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Staking Rewards",
-          "slug": "staking-rewards"
-        },
-        {
-          "level": 2,
-          "title": "Unstaking your BlockForge Battle Pass",
-          "slug": "unstaking-your-blockforge-battle-pass"
-        }
-      ]
-    },
-    {
       "title": "Home",
       "frontmatter": {
         "home": true,
@@ -287,19 +298,8 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "index.md",
-      "key": "v-bd5eb1d8",
+      "key": "v-9f14f56e",
       "path": "/"
-    },
-    {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/welcome.html",
-      "relativePath": "blockforge/welcome.md",
-      "key": "v-c4c3e3cc",
-      "path": "/blockforge/welcome.html"
     }
   ],
   "themeConfig": {
@@ -349,7 +349,7 @@ export const siteData = {
           ],
           [
             "/blockforge/Plots",
-            "Purchasing Plots"
+            "Claiming Plots"
           ],
           [
             "/blockforge/PlotStaking",
