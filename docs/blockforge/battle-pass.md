@@ -2,7 +2,7 @@
 title: BlockForge Battle Pass
 pageClass: content-page-class-general
 ---
-# Battle Pass NFT
+# Battle Pass NFT :rocket:
 
 The BlockForge Battle Pass NFT is an ERC721 Token that will be distributed via a public mint. Each Battle Pass NFT is unique, in that it will have a unique number on the front and a unique Minecraft skin on the back. Refer to the [Project Roadmap](/blockforge/Project_Timeline).
 
@@ -18,6 +18,27 @@ Owners of the NFT, will be able to download the Minecraft skin on our website. T
 <!-- <BattlePassImages/> -->
 <battlePassVideo/>
 
+## Token Generation
+
+Ownership of a Blockforge pass will allow the owner to earn roughly 15-25 $FORGE tokens per hour spent in-game. The amount of token that can be earned in-game depends on the type of pass that the owner possesses.
+
+### Equation
+<tokenEquation/>
+
+|   Requirement     | Mint Price    | Spots Available |
+| ----------------- |:-------------:| -----:|
+|   Cosmic Cap NFT  |   FREE        | 200   |
+|   Critterz & World Tokens | 0.01 Ether  |  500 |
+|   None          | 0.025 Ether      |  1,800 |
+## Utility
+
+<!-- The Battle Pass will have multiple functions: -->
+
+* Access to Blockforge Minecraft Server
+* Earn $FORGE tokens while playing Minecraft
+* Rentable to anyone for a minimum of 7 days
+* Unique Minecraft skin
+* Enables Battle Mode
 
 ## Whitelist
 Sign up for one of the three available tiers of whitelists for the Diamond Battle Pass. The three whitelists differ by spots available, mint cost, and requirement to reserve a spot.
@@ -27,27 +48,15 @@ A maximum of 5,000 Diamond Battle Pass NFTs will ever be created. Sign up for th
 * Requirement: **Critterz and NFT World Token Holders**; Mint Price: **0.01 Ether**; Spots available: **500**.
 * Requirement: **None**; Mint Price: **0.025 Ether**; Spots available: **1,800**.
 
+
+
 <battlepassAllocationsGraph />
 
 
 
-## Token Generation
-
-Ownership of a Blockforge pass will allow the owner to earn roughly 15-25 $FORGE tokens per hour spent in-game. The amount of token that can be earned in-game depends on the type of pass that the owner possesses.
-
-### Equation
-<tokenEquation/>
 
 
-## Utility
 
-<!-- The Battle Pass will have multiple functions: -->
-
-* Access to Blockforge Minecraft Server
-* Earn $FORGE tokens while playing Minecraft
-* Rentable to anyone for aminimum of 7 days
-* Unique Minecraft skin
-* Enables Battle Mode
 
 
 <!--

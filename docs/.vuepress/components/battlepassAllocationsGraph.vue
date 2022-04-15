@@ -3,6 +3,7 @@
     <div class="img1">
       <!-- <img src="/battlepass_allocations_graph.jpg" alt="battle pass mint allocations" style="max-width: 46rem; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; margin-top: 2rem;"> -->
       <div class="" >
+          
           <svg width="1083" height="600" style="max-width: 46rem; display: block; margin-left: auto; margin-right: auto; margin-bottom: 0rem; margin-top: 0rem;" viewBox="0 0 1083 750" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="1083" height="600" fill="#F7FAFC"/>
 <path d="M756 379C756 449.133 736.067 517.822 698.525 577.061C660.983 636.3 607.377 683.649 543.956 713.589C480.535 743.53 409.91 754.828 340.314 746.169C270.717 737.509 205.015 709.247 150.865 664.677L386 379H756Z" fill="#BEE3F8"/>

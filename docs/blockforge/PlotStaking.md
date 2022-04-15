@@ -16,7 +16,14 @@ Renting a staked plot:
 
 * When a plot is staked, it opens the staked plot up for Plot Vulnerability (Refer Next Section).
 
-## Plot Vulnerability & Raiding
+## Plot Rank
+Plots are given a rank number based on the amount of **Diamond Blocks** located on the plot. When the plot is staked and set to Battle Mode, then the plot will generate $FORGE tokens every hour, equal to the rank number multiplied by 2.
+<!-- The plot must be staked and set to Battle Mode to generate $FORGE tokens.  -->
+<!-- Plot rankings can affect the amount of tokens the plot can generate.  -->
+<!-- A plot with a higher rank will generate more $FORGE tokens per day.  -->
+Players can increase the rank of their land by placing diamond blocks on their plot. Once a staked plot contains at least one block of diamond, then it can be set to Battle Mode by the owner. When a staked plot is in Battle Mode, then it will generate $FORGE tokens for the owner.
+
+## Plot Battle Mode 
 
 When a plot is staked and set as vulnerable, users will be able to modify blocks from the staked plot.
 Users are only able to modify the blocks of vulnerable plots, if they own at least one plot and set it as vulnerable.

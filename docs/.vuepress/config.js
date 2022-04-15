@@ -16,6 +16,7 @@ module.exports = {
         collapsable: false,
         children: [
           ['/blockforge/welcome', 'Foreward'],
+          ['/blockforge/TheVision', 'The Vision'],
           ['/blockforge/Project_Timeline', 'Project Roadmap'],
           ['/blockforge/Battle_Mode', 'Battle Mode'],
           ['/blockforge/battle-pass', 'Battle Pass NFT'],
@@ -38,7 +39,8 @@ module.exports = {
         title: 'Server Documentation',
         collapsable: false,
         children: [
-          ['/blockforge/ServerDocumentation', 'Connect to Server']
+          ['/blockforge/ServerDocumentation', 'Connect to Server'],
+          ['/blockforge/OfficialLinks', 'Official Links']
         ]
       }
     ]

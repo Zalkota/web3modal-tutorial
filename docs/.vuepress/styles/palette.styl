@@ -55,6 +55,10 @@ body {
     border-color: #DBEAFE;
   }
 
+  aside.sidebar .sidebar-link {
+    font-family: 'Nunito';
+  }
+
   //navbar in read pages
   header.navbar{
     font-family: 'Russo One';
@@ -113,14 +117,54 @@ body {
     padding-left: 1rem;
     --tw-space-y-reverse: 0;
     color: #2A4365;
+
     margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
     margin-bottom: calc(1.5rem * calc(1-var(--tw-space-y-reverse)));
     border-radius: 0px;
-    border: 1px solid #BEE3F8;
+    border-left: 6px solid #4299E1;
     list-style: none;
-    background-color: #EBF8FF;
+    background-color: #EDF2F7;
 
   }
+
+  // Lists within Read Pages
+    div.theme-default-content ol {
+    padding-left: 0;
+    font-size: 30px !important;
+
+    }
+
+    div.theme-default-content ol p {
+    padding-left: 0;
+    font-size: 1.1rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    }
+
+  div.theme-default-content ol li {
+
+    width: inherit;
+    height: inherit;
+    padding: .5rem;
+    font-weight: 500;
+    padding-left: 1rem;
+    --tw-space-y-reverse: 0;
+    color: #2A4365;
+    margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(1.5rem * calc(1-var(--tw-space-y-reverse)));
+    border-radius: 0px;
+    border-left: 0;
+    list-style: none;
+    background-color: #EDF2F7;
+
+  }
+
+  .theme-default-content code {
+   color: #3182CE;
+   font-weight: 700;
+   background-color: #E2E8F0;
+  }
+
 
   // Lists within Read Pages
   div.theme-default-content ul {
@@ -137,7 +181,6 @@ body {
     width: inherit;
     height: inherit;
     padding: 0rem;
-    margin: 0;
     border-radius: 0px;
     list-style: none;
   }

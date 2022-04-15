@@ -1,14 +1,17 @@
 <template>
   <div style="margin-right: 3rem; margin-left: 3rem;">
-        <div class="flex card"  style="margin-top: 3rem;">
+        <div class="flex"  style="margin-top: 3rem;">
             <div class="">
                 <video style="display: block; max-width: 44.2rem; max-width: 612px;" controls>
                      <source src="/battlepass.mp4" type="video/mp4" >
                      Your browser does not support HTML5 video.
                 </video>
+                <div class="color-light" style=" display: block; margin-left: auto; margin-right: auto;">
+                    <h5>The beta version of the Diamond Battle Pass NFT.</h5>
+                </div>
             </div>
-            <div class="card-container">
-                <h3>Defend your Diamond Blocks and receive $FORGE tokens.</h3>
+            <!-- <div class="card-container">
+                <h3></h3>
 
                 <div class="color-blue">
                     <h5><span class="color-blue">-</span> Access to Blockforge Minecraft Server</h5>
@@ -17,7 +20,7 @@
                     <h5><span class="color-blue">-</span> Unique Minecraft skin</h5>
                     <h5><span class="color-blue">-</span> Enables Battle Mode</h5>
                 </div>
-            </div>
+            </div> -->
         </div>
   </div>
 
@@ -94,7 +97,6 @@ p {
 }
 
 h3 {
-   color: #EDF2F7;
    letter-spacing: .1rem;
 
 }
@@ -108,7 +110,7 @@ h4 {
 }
 
 h5 {
-    color: #EDF2F7;
+    color: #2D3748;
     margin-top: 0.75rem;
     margin-bottom: 0.75rem;
     font-weight: 400;

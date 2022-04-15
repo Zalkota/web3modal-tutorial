@@ -1,9 +1,7 @@
 <template>
-    <div class="">
-        
-         <img src="/redeem_tokens.jpg" alt="How to redeem $FORGE tokens"  style="margin-top: 2rem;">
-    </div>
-
+      <div class="" style="margin-top: 1rem;">
+          <img src="/forge_header_img_2.jpg" alt="forge token header" >
+      </div>
 </template>
 
 <style>

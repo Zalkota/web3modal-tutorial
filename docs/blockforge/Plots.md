@@ -11,7 +11,9 @@ The map of Blockforge is evenly divided into 6,400 unique plots of land. A plot 
 
 <plotImages/>
 
-### Plot Price Calculation
+
+
+## Plot Price Calculation
 
 The price of plots are dynamic and vary based on the number of plots that have already been minted. The price of the plot is calculated dynamically using the formula shown below:
 <plotEquation/>
@@ -19,14 +21,14 @@ The price of plots are dynamic and vary based on the number of plots that have a
 <plotprice/>
 
 
-## Plot Ranking
-Plots are given a rank number based on the amount of diamond blocks located on the plot. When the plot is staked and set to vulnerable, then the plot will generate $FORGE tokens every hour, equal to the rank number multiplied by 2.
-<!-- The plot must be staked and set to vulnerable to generate $FORGE tokens.  -->
+## Plot Rank remove?
+Plots are given a rank number based on the amount of **Diamond Blocks** located on the plot. When the plot is staked and set to Battle Mode, then the plot will generate $FORGE tokens every hour, equal to the rank number multiplied by 2.
+<!-- The plot must be staked and set to Battle Mode to generate $FORGE tokens.  -->
 <!-- Plot rankings can affect the amount of tokens the plot can generate.  -->
 <!-- A plot with a higher rank will generate more $FORGE tokens per day.  -->
-Players can increase the rank of their land by placing diamond blocks on their plot. Once a staked plot contains at least one block of diamond, then it can be set as vulnerable by the owner. When a staked plot is vulnerable, then it will generate $FORGE tokens for the owner.
+Players can increase the rank of their land by placing diamond blocks on their plot. Once a staked plot contains at least one block of diamond, then it can be set to Battle Mode by the owner. When a staked plot is in Battle Mode, then it will generate $FORGE tokens for the owner.
 
-
+<!--
 
 * Plot owners can generate additional $FORGE tokens when in-game
 
@@ -36,7 +38,7 @@ Players can increase the rank of their land by placing diamond blocks on their p
 
 * Rent Pass to other players to help receive a share of their generated $FORGE
 
-* Plot owners can rent their BlockForge pass to other players, and receive a share of the $FORGE tokens generated when the renter is in-game
+* Plot owners can rent their BlockForge pass to other players, and receive a share of the $FORGE tokens generated when the renter is in-game -->
 
 
 ## Island of Karniel

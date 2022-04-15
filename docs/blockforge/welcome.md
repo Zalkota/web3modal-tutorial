@@ -21,7 +21,7 @@ The BlockForge Team in no way affiliated with, endorsed by, or a partner of Mine
  The Blockforge Team would like to thank everyone that has decided to be a part of this community. We thank you for your investment in us and understand the responsibility we hold to your investments.
  The Blockforge Team will ensure that we provide complete transparency with regards to the project roadmap, timeline and updates to keep community members engaged, involved and updated. We also guarantee that we will do everything we can to provide as much value to your time and investment.
 
-# Risks
+# Risks :warning:
 
 The BlockForge team is working very hard and diligently to create a Minecraft server that integrates Non-fungible Tokens (NFT) and crypto assets into its gameplay experience. However, there are many risks involved, both for the Blockforge team and users due to the nature of blockchain and cryptographic security. Here are some of the risks we currently want to bring to our users' attention:
 * Mojang closes down our server for integrating blockchain technology.
