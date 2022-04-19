@@ -11,19 +11,28 @@ pageClass: content-page-class-general
 
 ## Why Earn $FORGE ?
 
+### Claim Plots
 Earning $FORGE tokens will allow BlockForge Pass holders the ability to purchase plots of land within the Minecraft Server. Earning $FORGE tokens can be beneficial since there are only a limited amount of plots that can be purchased within the Minecraft Server.
+### Block Fortifications
+We have modified certain blocks to have increased strength and durability. Use these blocks to fortify your defense and protect your Diamond Blocks from raiders.
+These blocks are redeemable with $Forge tokens from the blocksmith located inside BlockForge. Enter the main gate to BlockForge, travel down the stairs, first shop on the left. Speak with the NPC named **Dunstan**.
 
+### Arenas
 $FORGE Tokens can also be used to trade in-game items within the Blockforge Universe. The development team plans to implement an in-game marketplace where $FORGE tokens can be used to transact. $FORGE tokens will also be required to enter the following arenas:
-* Resource Harvesting Arena
-* Dueling Arena
-* Questing Arena
+* Forge Token Entrance fee to the **Resource Harvesting Arena**
+* Wager Forge token at the **Dueling Arena**
+* Pay Forge to obtain **Quests**
 
+
+## Tokenomics & Distribution
+
+<tokenAllocationsGraph/>
 
 ## Claim Forge Tokens
 
 Blockforge Battle Pass holders can claim $FORGE tokens from playing on the server from the **Dashboard** or the **Token Smart Contract**.
 
-:::danger IMPORTANT
+:::warning Feature Under Construction 🔨
 Forge tokens are not redeemable until after the beta mode has ended. Beta mode will end once the Diamond Battle Pass NFT mint has ended.
 :::
 
@@ -43,7 +52,3 @@ Forge tokens are not redeemable until after the beta mode has ended. Beta mode w
 
 
 <RedeemTokens />
-
-## Tokenomics & Distribution
-
-<tokenAllocationsGraph/>

@@ -8,31 +8,20 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
-      "title": "Battle Mode",
+      "title": "NPCs in BlockForge",
       "frontmatter": {
-        "title": "Battle Mode",
+        "title": "NPCs in BlockForge",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Battle_Mode.html",
-      "relativePath": "blockforge/Battle_Mode.md",
-      "key": "v-04ba1e6c",
-      "path": "/blockforge/Battle_Mode.html"
-    },
-    {
-      "title": "DOTD",
-      "frontmatter": {
-        "title": "DOTD",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/BlockForgeUniverse.html",
-      "relativePath": "blockforge/BlockForgeUniverse.md",
-      "key": "v-60fe7b70",
-      "path": "/blockforge/BlockForgeUniverse.html",
+      "regularPath": "/blockforge/NPCs.html",
+      "relativePath": "blockforge/NPCs.md",
+      "key": "v-5e5af1b0",
+      "path": "/blockforge/NPCs.html",
       "headers": [
         {
           "level": 2,
-          "title": "Mission",
-          "slug": "mission"
+          "title": "BlockForge Spawn",
+          "slug": "blockforge-spawn"
         }
       ]
     },
@@ -42,10 +31,10 @@ export const siteData = {
         "title": "Arenas",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/GameMechanics.html",
-      "relativePath": "blockforge/GameMechanics.md",
-      "key": "v-4b4aa064",
-      "path": "/blockforge/GameMechanics.html",
+      "regularPath": "/blockforge/Arenas.html",
+      "relativePath": "blockforge/Arenas.md",
+      "key": "v-c8b3afb0",
+      "path": "/blockforge/Arenas.html",
       "headers": [
         {
           "level": 2,
@@ -54,36 +43,41 @@ export const siteData = {
         },
         {
           "level": 2,
-          "title": "Raid Arena",
-          "slug": "raid-arena"
+          "title": "Duel Arena",
+          "slug": "duel-arena"
         },
         {
           "level": 2,
-          "title": "Duel Arena",
-          "slug": "duel-arena"
+          "title": "Quest Arena",
+          "slug": "quest-arena"
         }
       ]
     },
     {
-      "title": "Staking Plots",
+      "title": "Battle Mode",
       "frontmatter": {
-        "title": "Staking Plots",
+        "title": "Battle Mode",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/PlotStaking.html",
-      "relativePath": "blockforge/PlotStaking.md",
-      "key": "v-d7eda51c",
-      "path": "/blockforge/PlotStaking.html",
+      "regularPath": "/blockforge/Battle_Mode.html",
+      "relativePath": "blockforge/Battle_Mode.md",
+      "key": "v-04ba1e6c",
+      "path": "/blockforge/Battle_Mode.html",
       "headers": [
+        {
+          "level": 2,
+          "title": "Introduction",
+          "slug": "introduction"
+        },
+        {
+          "level": 2,
+          "title": "Requirements",
+          "slug": "requirements"
+        },
         {
           "level": 2,
           "title": "Plot Rank",
           "slug": "plot-rank"
-        },
-        {
-          "level": 2,
-          "title": "Plot Battle Mode",
-          "slug": "plot-battle-mode"
         },
         {
           "level": 3,
@@ -91,78 +85,6 @@ export const siteData = {
           "slug": "equation"
         }
       ]
-    },
-    {
-      "title": "Forge Token",
-      "frontmatter": {
-        "title": "Forge Token",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/ForgeToken.html",
-      "relativePath": "blockforge/ForgeToken.md",
-      "key": "v-778b0ae8",
-      "path": "/blockforge/ForgeToken.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Introduction",
-          "slug": "introduction"
-        },
-        {
-          "level": 2,
-          "title": "Why Earn $FORGE ?",
-          "slug": "why-earn-forge"
-        },
-        {
-          "level": 2,
-          "title": "Claim Forge Tokens",
-          "slug": "claim-forge-tokens"
-        },
-        {
-          "level": 2,
-          "title": "Tokenomics & Distribution",
-          "slug": "tokenomics-distribution"
-        }
-      ]
-    },
-    {
-      "title": "Claiming Plots on the server",
-      "frontmatter": {
-        "title": "Claiming Plots on the server",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Plots.html",
-      "relativePath": "blockforge/Plots.md",
-      "key": "v-1dd0c4fa",
-      "path": "/blockforge/Plots.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Plot Price Calculation",
-          "slug": "plot-price-calculation"
-        },
-        {
-          "level": 2,
-          "title": "Plot Rank remove?",
-          "slug": "plot-rank-remove"
-        },
-        {
-          "level": 2,
-          "title": "Island of Karniel",
-          "slug": "island-of-karniel"
-        }
-      ]
-    },
-    {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-32a84dba",
-      "path": "/blockforge/"
     },
     {
       "title": "BlockForge Links",
@@ -198,65 +120,147 @@ export const siteData = {
       ]
     },
     {
-      "title": "BlockForge RoadMap",
+      "title": "DOTD",
       "frontmatter": {
-        "title": "BlockForge RoadMap",
+        "title": "DOTD",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Project_Timeline.html",
-      "relativePath": "blockforge/Project_Timeline.md",
-      "key": "v-6a3a7570",
-      "path": "/blockforge/Project_Timeline.html"
-    },
-    {
-      "title": "Connect to the Island of Karniel",
-      "frontmatter": {
-        "title": "Connect to the Island of Karniel",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/ServerDocumentation.html",
-      "relativePath": "blockforge/ServerDocumentation.md",
-      "key": "v-e0a5aea0",
-      "path": "/blockforge/ServerDocumentation.html",
+      "regularPath": "/blockforge/DefenseOfTheDiamonds.html",
+      "relativePath": "blockforge/DefenseOfTheDiamonds.md",
+      "key": "v-39b14288",
+      "path": "/blockforge/DefenseOfTheDiamonds.html",
       "headers": [
         {
           "level": 2,
-          "title": "Download Minecraft",
-          "slug": "download-minecraft"
+          "title": "Raiding",
+          "slug": "raiding"
         },
         {
           "level": 2,
-          "title": "Connect to the Island of Karniel",
-          "slug": "connect-to-the-island-of-karniel"
+          "title": "Block Fortification",
+          "slug": "block-fortification"
         },
         {
-          "level": 2,
-          "title": "Verify Your Wallet",
-          "slug": "verify-your-wallet"
+          "level": 3,
+          "title": "Block Break Time",
+          "slug": "block-break-time"
+        },
+        {
+          "level": 3,
+          "title": "Redeeming Defensive Blocks",
+          "slug": "redeeming-defensive-blocks"
         }
       ]
     },
     {
-      "title": "Renting for BlockForge Pass Holders",
+      "title": "Claiming Plots on the server",
       "frontmatter": {
-        "title": "Renting for BlockForge Pass Holders",
+        "title": "Claiming Plots on the server",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Renting_Battle_Pass.html",
-      "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-51d4e4cc",
-      "path": "/blockforge/Renting_Battle_Pass.html"
+      "regularPath": "/blockforge/Plots.html",
+      "relativePath": "blockforge/Plots.md",
+      "key": "v-1dd0c4fa",
+      "path": "/blockforge/Plots.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Plot Price Calculation",
+          "slug": "plot-price-calculation"
+        },
+        {
+          "level": 2,
+          "title": "Island of Karniel",
+          "slug": "island-of-karniel"
+        }
+      ]
     },
     {
-      "title": "Staking for BlockForge Pass Holders",
+      "title": "Forge Token",
       "frontmatter": {
-        "title": "Staking for BlockForge Pass Holders",
+        "title": "Forge Token",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Staking_Battle_Pass.html",
-      "relativePath": "blockforge/Staking_Battle_Pass.md",
-      "key": "v-22b4653e",
-      "path": "/blockforge/Staking_Battle_Pass.html",
+      "regularPath": "/blockforge/ForgeToken.html",
+      "relativePath": "blockforge/ForgeToken.md",
+      "key": "v-778b0ae8",
+      "path": "/blockforge/ForgeToken.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "Introduction",
+          "slug": "introduction"
+        },
+        {
+          "level": 2,
+          "title": "Why Earn $FORGE ?",
+          "slug": "why-earn-forge"
+        },
+        {
+          "level": 3,
+          "title": "Claim Plots",
+          "slug": "claim-plots"
+        },
+        {
+          "level": 3,
+          "title": "Block Fortifications",
+          "slug": "block-fortifications"
+        },
+        {
+          "level": 3,
+          "title": "Arenas",
+          "slug": "arenas"
+        },
+        {
+          "level": 2,
+          "title": "Tokenomics & Distribution",
+          "slug": "tokenomics-distribution"
+        },
+        {
+          "level": 2,
+          "title": "Claim Forge Tokens",
+          "slug": "claim-forge-tokens"
+        }
+      ]
+    },
+    {
+      "title": "Staking Plots",
+      "frontmatter": {
+        "title": "Staking Plots",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/PlotRenting.html",
+      "relativePath": "blockforge/PlotRenting.md",
+      "key": "v-6dc04dce",
+      "path": "/blockforge/PlotRenting.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "How to Stake",
+          "slug": "how-to-stake"
+        },
+        {
+          "level": 2,
+          "title": "How to Unstake",
+          "slug": "how-to-unstake"
+        },
+        {
+          "level": 2,
+          "title": "Battle Mode",
+          "slug": "battle-mode"
+        }
+      ]
+    },
+    {
+      "title": "Staking Plots",
+      "frontmatter": {
+        "title": "Staking Plots",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/PlotStaking.html",
+      "relativePath": "blockforge/PlotStaking.md",
+      "key": "v-d7eda51c",
+      "path": "/blockforge/PlotStaking.html",
       "headers": [
         {
           "level": 2,
@@ -271,15 +275,59 @@ export const siteData = {
       ]
     },
     {
-      "title": "The Vision for BlockForge",
+      "title": "Foreward",
       "frontmatter": {
-        "title": "The Vision for BlockForge",
+        "title": "Foreward",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/TheVision.html",
-      "relativePath": "blockforge/TheVision.md",
-      "key": "v-5ba9942c",
-      "path": "/blockforge/TheVision.html"
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-32a84dba",
+      "path": "/blockforge/"
+    },
+    {
+      "title": "BlockForge RoadMap",
+      "frontmatter": {
+        "title": "BlockForge RoadMap",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Project_Timeline.html",
+      "relativePath": "blockforge/Project_Timeline.md",
+      "key": "v-6a3a7570",
+      "path": "/blockforge/Project_Timeline.html"
+    },
+    {
+      "title": "Renting for BlockForge Pass Holders",
+      "frontmatter": {
+        "title": "Renting for BlockForge Pass Holders",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Renting_Battle_Pass.html",
+      "relativePath": "blockforge/Renting_Battle_Pass.md",
+      "key": "v-51d4e4cc",
+      "path": "/blockforge/Renting_Battle_Pass.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Staked VS. Non-Staked Battle Pass",
+          "slug": "staked-vs-non-staked-battle-pass"
+        },
+        {
+          "level": 2,
+          "title": "Requirements",
+          "slug": "requirements"
+        },
+        {
+          "level": 2,
+          "title": "Utility of a Rented Battle Pass",
+          "slug": "utility-of-a-rented-battle-pass"
+        },
+        {
+          "level": 2,
+          "title": "Minimum Renting Duration",
+          "slug": "minimum-renting-duration"
+        }
+      ]
     },
     {
       "title": "BlockForge Battle Pass",
@@ -318,6 +366,40 @@ export const siteData = {
           "slug": "whitelist"
         }
       ]
+    },
+    {
+      "title": "Staking for BlockForge Pass Holders",
+      "frontmatter": {
+        "title": "Staking for BlockForge Pass Holders",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Staking_Battle_Pass.html",
+      "relativePath": "blockforge/Staking_Battle_Pass.md",
+      "key": "v-22b4653e",
+      "path": "/blockforge/Staking_Battle_Pass.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "How to Stake",
+          "slug": "how-to-stake"
+        },
+        {
+          "level": 2,
+          "title": "How to Unstake",
+          "slug": "how-to-unstake"
+        }
+      ]
+    },
+    {
+      "title": "The Vision for BlockForge",
+      "frontmatter": {
+        "title": "The Vision for BlockForge",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/TheVision.html",
+      "relativePath": "blockforge/TheVision.md",
+      "key": "v-5ba9942c",
+      "path": "/blockforge/TheVision.html"
     },
     {
       "title": "Foreward",
@@ -359,6 +441,34 @@ export const siteData = {
       "relativePath": "index.md",
       "key": "v-bd5eb1d8",
       "path": "/"
+    },
+    {
+      "title": "Connect to the Island of Karniel",
+      "frontmatter": {
+        "title": "Connect to the Island of Karniel",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/ServerDocumentation.html",
+      "relativePath": "blockforge/ServerDocumentation.md",
+      "key": "v-e0a5aea0",
+      "path": "/blockforge/ServerDocumentation.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Download Minecraft",
+          "slug": "download-minecraft"
+        },
+        {
+          "level": 2,
+          "title": "Connect to the Island of Karniel",
+          "slug": "connect-to-the-island-of-karniel"
+        },
+        {
+          "level": 2,
+          "title": "Verify Your Wallet",
+          "slug": "verify-your-wallet"
+        }
+      ]
     }
   ],
   "themeConfig": {
@@ -404,19 +514,19 @@ export const siteData = {
           ],
           [
             "/blockforge/Staking_Battle_Pass",
-            "Staking Battle Pass"
+            "Staking Battle Passes"
           ],
           [
             "/blockforge/Renting_Battle_Pass",
-            "Renting Battle Pass"
+            "Renting Battle Passes"
           ],
           [
             "/blockforge/Plots",
-            "Claiming Plots"
+            "Claiming Plot NFTs"
           ],
           [
             "/blockforge/PlotStaking",
-            "Staking Plots"
+            "Staking Plot NFTs"
           ],
           [
             "/blockforge/ForgeToken",
@@ -429,12 +539,16 @@ export const siteData = {
         "collapsable": false,
         "children": [
           [
-            "/blockforge/BlockForgeUniverse",
+            "/blockforge/DefenseOfTheDiamonds",
             "Defense Of The Diamonds"
           ],
           [
-            "/blockforge/GameMechanics",
+            "/blockforge/Arenas",
             "Arenas"
+          ],
+          [
+            "/blockforge/NPCs",
+            "NPCs"
           ]
         ]
       },

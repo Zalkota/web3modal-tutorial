@@ -14,12 +14,11 @@ See the **Battle Pass NFT** section for more information about the utility of a 
 To Stake a battle pass, visit the BlockForgeNFT.xyz website, sign in with with a web3 wallet, and go to the **Dashboard**.
 If the connected wallet contains a Battle Pass NFT, then it will appear under **Battle Passes**
 
-<Dashboard />
 
-
+<!--
 A Staked BlockForge pass will also enable access for the pass owner to purchase 100x100 plots of land within the Minecraft Server using the $FORGE token they have earned while playing in-game.
 
-Once a BlockForge Pass is staked, The owner will have the ability to rent their staked pass token to other players for a predefined amount of time.
+Once a BlockForge Pass is staked, The owner will have the ability to rent their staked pass token to other players for a predefined amount of time. -->
 
 ## How to Unstake
 

@@ -11,5 +11,18 @@ BlockForge takes place on an island called Karniel. The world is 10,240 x 10,240
 
 
 
-## Mission
-The goal is simple, raid other users for their diamond blocks, while simultaneously defending the dimaonds on your plots. If you happen to need a break from waging war with your neighbor, then simply turn off battlemode, however it will come at the expense of your $FORGE token generation.
+## Raiding
+Raid other user plots for their diamond blocks, while simultaneously defending the dimaond ore and blocks on your plot. Diamond blocks will only generate $FORGE token when your land is in
+[Battle Mode](/blockforge/Battle_Mode). Users are granted access to raid plots not owned by them, when both the user and plot are in [Battle Mode](/blockforge/Battle_Mode).
+If you happen to need a break from waging war with your neighbor and generating tokens, then simply turn off battlemode.
+
+
+## Block Fortification
+We have modified certain blocks to have increased strength and durability. Use these blocks to fortify your defense and protect your Diamond Blocks from raiders.
+
+### Block Break Time
+<BlockTypeGraph />
+
+### Redeeming Defensive Blocks
+
+All of the blocks in the chart above are redeemable from the Blocksmith located BlockForge using the $FORGE tokens. Enter the main gate to BlockForge, travel down the stairs, first shop on the left.

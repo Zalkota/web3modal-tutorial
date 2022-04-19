@@ -20,10 +20,10 @@ module.exports = {
           ['/blockforge/Project_Timeline', 'Project Roadmap'],
           ['/blockforge/Battle_Mode', 'Battle Mode'],
           ['/blockforge/battle-pass', 'Battle Pass NFT'],
-          ['/blockforge/Staking_Battle_Pass', 'Staking Battle Pass'],
-          ['/blockforge/Renting_Battle_Pass', 'Renting Battle Pass'],
-          ['/blockforge/Plots', 'Claiming Plots'],
-          ['/blockforge/PlotStaking', 'Staking Plots'],
+          ['/blockforge/Staking_Battle_Pass', 'Staking Battle Passes'],
+          ['/blockforge/Renting_Battle_Pass', 'Renting Battle Passes'],
+          ['/blockforge/Plots', 'Claiming Plot NFTs'],
+          ['/blockforge/PlotStaking', 'Staking Plot NFTs'],
           ['/blockforge/ForgeToken', '$FORGE Token']
         ]
       },
@@ -31,8 +31,9 @@ module.exports = {
         title: 'GamePlay',
         collapsable: false,
         children: [
-          ['/blockforge/BlockForgeUniverse','Defense Of The Diamonds'],
-          ['/blockforge/GameMechanics','Arenas']
+          ['/blockforge/DefenseOfTheDiamonds','Defense Of The Diamonds'],
+          ['/blockforge/Arenas','Arenas'],
+          ['/blockforge/NPCs', 'NPCs']
         ]
       },
       {
@@ -41,6 +42,7 @@ module.exports = {
         children: [
           ['/blockforge/ServerDocumentation', 'Connect to Server'],
           ['/blockforge/OfficialLinks', 'Official Links']
+
         ]
       }
     ]

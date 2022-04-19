@@ -2,7 +2,7 @@
 title: BlockForge Battle Pass
 pageClass: content-page-class-general
 ---
-# Battle Pass NFT :rocket:
+# Battle Pass NFT
 
 The BlockForge Battle Pass NFT is an ERC721 Token that will be distributed via a public mint. Each Battle Pass NFT is unique, in that it will have a unique number on the front and a unique Minecraft skin on the back. Refer to the [Project Roadmap](/blockforge/Project_Timeline).
 
@@ -25,19 +25,15 @@ Ownership of a Blockforge pass will allow the owner to earn roughly 15-25 $FORGE
 ### Equation
 <tokenEquation/>
 
-|   Requirement     | Mint Price    | Spots Available |
-| ----------------- |:-------------:| -----:|
-|   Cosmic Cap NFT  |   FREE        | 200   |
-|   Critterz & World Tokens | 0.01 Ether  |  500 |
-|   None          | 0.025 Ether      |  1,800 |
+
 ## Utility
 
 <!-- The Battle Pass will have multiple functions: -->
 
-* Access to Blockforge Minecraft Server
-* Earn $FORGE tokens while playing Minecraft
-* Rentable to anyone for a minimum of 7 days
-* Unique Minecraft skin
+* When staked, enables player access to Blockforge Minecraft Server
+* When staked, earn $FORGE tokens while playing Minecraft on the BlockForge server.
+* When staked, it is rentable to anyone for a minimum of 7 days
+* Download a unique Minecraft skin, located on the back of the card.
 * Enables Battle Mode
 
 ## Whitelist

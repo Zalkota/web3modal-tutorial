@@ -17,7 +17,7 @@
            </div>
       </div>
       <div class="color-light" style=" display: block; margin-left: auto; margin-right: auto;">
-          <h5>Four plots of claimable land from the Blockforge Minecraft server.</h5>
+          <h5>Four plots of claimable land located on the Island of Karneil.</h5>
       </div>
   </div>
 </template>
@@ -26,12 +26,13 @@
 <style>
 .plot-image-flex-box {
   display: flex;
-  height: 480px;
+  height: 366px;
+  margin-bottom: .25rem;
 }
 
 .plot-image {
-    padding: 0.1rem;
-    height: 480px;
+    padding: .25rem;
+    height: 366px;
 }
 
 
