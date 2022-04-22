@@ -1,5 +1,5 @@
 ---
-title: BlockForge Battle Pass
+title: Battle Pass NFT- BlockForge Documentation
 pageClass: content-page-class-general
 ---
 # Battle Pass NFT
@@ -29,12 +29,12 @@ Ownership of a Blockforge pass will allow the owner to earn roughly 15-25 $FORGE
 ## Utility
 
 <!-- The Battle Pass will have multiple functions: -->
-
+* Enables Battle Mode on 1 plot
 * When staked, enables player access to Blockforge Minecraft Server
 * When staked, earn $FORGE tokens while playing Minecraft on the BlockForge server.
 * When staked, it is rentable to anyone for a minimum of 7 days
 * Download a unique Minecraft skin, located on the back of the card.
-* Enables Battle Mode
+
 
 ## Whitelist
 Sign up for one of the three available tiers of whitelists for the Diamond Battle Pass. The three whitelists differ by spots available, mint cost, and requirement to reserve a spot.

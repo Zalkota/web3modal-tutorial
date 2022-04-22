@@ -1,5 +1,5 @@
 ---
-title: BlockForge Links
+title: Links - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 

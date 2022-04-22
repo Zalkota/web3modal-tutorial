@@ -1,5 +1,5 @@
 ---
-title: Staking Plots
+title: Staking Plots - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 # Staking Plot NFT
@@ -23,9 +23,9 @@ Plots are not stakable until after the beta mode has ended. Beta mode will end o
 
 1. Click on **Stake Plot**
 
-:::tip
+<!-- :::tip
 Feel free to interact with the verified smart contract directly through [Etherscan](/blockforge/OfficialLinks.md).
-:::
+::: -->
 
 
 ## How to Unstake

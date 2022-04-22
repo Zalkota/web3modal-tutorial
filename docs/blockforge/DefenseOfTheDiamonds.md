@@ -1,5 +1,5 @@
 ---
-title: DOTD
+title: DOTD - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 

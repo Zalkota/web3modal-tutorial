@@ -1,10 +1,9 @@
 <template>
-  <div class = "Images">
-    <div class="img1">
+  <div class = "">
+    <div class="">
       <!-- <img src="/battlepass_allocations_graph.jpg" alt="battle pass mint allocations" style="max-width: 46rem; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; margin-top: 2rem;"> -->
       <div class="" >
-
-        <svg width="953" height="623" style="max-width: 46rem; display: block; margin-left: auto; margin-right: auto; margin-bottom: 0rem; margin-top: 0rem;" viewBox="0 0 953 766" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="953" height="553" style="max-width: 46rem; display: block; margin-left: auto; margin-right: auto; margin-bottom: 0rem; margin-top: 0rem;" viewBox="0 0 953 766" fill="none" xmlns="http://www.w3.org/2000/svg">
         <g clip-path="url(#clip0_137_36)">
         <rect width="953" height="766" fill="#F7FAFC"/>
         <path d="M523.365 430.594C523.365 479.092 509.581 526.591 483.62 567.556C457.659 608.52 420.59 641.263 376.734 661.967C332.877 682.671 284.04 690.484 235.913 684.496C187.786 678.508 142.352 658.964 104.906 628.144L267.505 430.594H523.365Z" fill="#BEE3F8"/>
@@ -112,7 +111,7 @@
         </svg>
 
       </div>
-      <div class="color-light" style=" display: block; margin-left: auto; margin-right: auto;">
+      <div class="color-light" style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
           <h5>A visual diagram of the tokenomics and distribution of the BlockForge P2E token.</h5>
       </div>
     </div>
@@ -120,18 +119,5 @@
 </template>
 
 <style>
-.Images {
-  display: flex;
-}
 
-.img1 {
-  flex: 100%;
-  padding: 5px;
-}
-
-@media screen and (max-width: 300px) {
-  .img1 {
-    width: 300px;
-  }
-}
 </style>

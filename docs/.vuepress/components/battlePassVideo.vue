@@ -6,7 +6,7 @@
                      <source src="/battlepass.mp4" type="video/mp4" >
                      Your browser does not support HTML5 video.
                 </video>
-                <div class="color-light" style=" display: block; margin-left: auto; margin-right: auto;">
+                <div class="color-light" style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
                     <h5>The beta version of the Diamond Battle Pass NFT.</h5>
                 </div>
             </div>
@@ -78,7 +78,7 @@
 }
 
 .color-light {
-    color: #CBD5E0;
+    color: #718096;
 }
 
 .border-top {

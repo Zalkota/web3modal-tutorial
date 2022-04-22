@@ -1,5 +1,5 @@
 ---
-title: Battle Mode
+title: Battle Mode - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 # Battle Mode :dagger:

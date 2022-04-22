@@ -1,5 +1,5 @@
 ---
-title: Staking for BlockForge Pass Holders
+title: Staking Battle Pass - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 
@@ -9,6 +9,10 @@ When a user stakes a Battle Pass, they will receive a Staked Battle Pass in retu
 
 
 See the **Battle Pass NFT** section for more information about the utility of a Staked Battle Pass.
+
+## Staked VS. Non-Staked Battle Pass
+<BattlePassCard/>
+
 
 ## How to Stake
 To Stake a battle pass, visit the BlockForgeNFT.xyz website, sign in with with a web3 wallet, and go to the **Dashboard**.

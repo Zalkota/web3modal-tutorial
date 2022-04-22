@@ -59,18 +59,5 @@
 </template>
 
 <style>
-.Images {
-  display: flex;
-}
 
-.img1 {
-  flex: 100%;
-  padding: 5px;
-}
-
-@media screen and (max-width: 300px) {
-  .img1 {
-    width: 300px;
-  }
-}
 </style>

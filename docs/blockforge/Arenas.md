@@ -1,5 +1,5 @@
 ---
-title: Arenas
+title: Arenas - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 

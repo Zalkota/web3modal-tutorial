@@ -1,5 +1,5 @@
 ---
-title: Renting for BlockForge Pass Holders
+title: Renting Battle Pass - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 
@@ -7,14 +7,12 @@ pageClass: content-page-class-general
 
 The Staked Diamond Battle Pass has the ability to be rented out to any Ethereum wallet. When a Diamond Battle Pass is staked, the Ethereum wallet will receive a Staked Diamond Battle Pass in return. This can be transfered and sold on secondary to another Ethereum wallet for a minimum of 7 Days. After 7 days, the original owner of the Diamond Battle Pass can retrieve the Staked Battle Pass from the renter by using the **Revoke** function via the **Dashboard** or [Deployed Smart Contract](https://etherscan.io).
 
-## Staked VS. Non-Staked Battle Pass
-<BattlePassCard/>
 
-## Requirements
+<!-- ## Requirements
 
 1. Own a minimum of 1 Battle Pass NFT.
 
-1. The Battle Pass NFT must be staked.
+1. The Battle Pass NFT must be staked. -->
 
 
 ## Utility of a Rented Battle Pass

@@ -1,5 +1,5 @@
 ---
-title: NPCs in BlockForge
+title: NPCs - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 

@@ -16,14 +16,15 @@ module.exports = {
         collapsable: false,
         children: [
           ['/blockforge/welcome', 'Foreward'],
-          ['/blockforge/TheVision', 'The Vision'],
+          // ['/blockforge/TheVision', 'The Vision'],
           ['/blockforge/Project_Timeline', 'Project Roadmap'],
           ['/blockforge/Battle_Mode', 'Battle Mode'],
           ['/blockforge/battle-pass', 'Battle Pass NFT'],
           ['/blockforge/Staking_Battle_Pass', 'Staking Battle Passes'],
           ['/blockforge/Renting_Battle_Pass', 'Renting Battle Passes'],
-          ['/blockforge/Plots', 'Claiming Plot NFTs'],
+          ['/blockforge/Plots', 'Plot NFT'],
           ['/blockforge/PlotStaking', 'Staking Plot NFTs'],
+          ['/blockforge/PlotRenting', 'Renting Plot NFTs'],
           ['/blockforge/ForgeToken', '$FORGE Token']
         ]
       },
@@ -33,6 +34,8 @@ module.exports = {
         children: [
           ['/blockforge/DefenseOfTheDiamonds','Defense Of The Diamonds'],
           ['/blockforge/Arenas','Arenas'],
+          ['/blockforge/Mercenary','Play as a Mercenary'],
+
           ['/blockforge/NPCs', 'NPCs']
         ]
       },

@@ -1,5 +1,5 @@
 ---
-title: Foreward
+title: Foreward - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 # Foreward

@@ -66,7 +66,7 @@
 }
 
 .color-light {
-    color: #CBD5E0;
+    color: #718096;
 }
 
 .border-top {

@@ -1,5 +1,5 @@
 ---
-title: Connect to the Island of Karniel
+title: Connect - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 

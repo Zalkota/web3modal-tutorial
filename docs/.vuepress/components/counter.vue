@@ -40,15 +40,16 @@
         <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">TBD</h3>
-            <h1>Duel Arena Release</h1>
-            <p>Wager $FORGE tokens and battle against other users in a player vs player coliseum located on the BlockForge Minecraft server.</p>
+            <h1>Mercenary Pass Mint</h1>
+            <p>5,000 NFT Mercenary Passes will be available for mint. Earn $Forge tokens for defending battle mode enabled plots.</p>
+
           </div>
         </li>
         <li style="background-color: #2d3748;">
           <div class="timeline-content">
             <h3 class="date">TBD</h3>
-            <h1>Gold Battle Pass Mint</h1>
-            <p>2,500 Gold Battle Passes NFT passes will be available for mint. Earn $FORGE tokens based on the amount of Gold Blocks on your plots. </p>
+            <h1>Duel Arena Release</h1>
+            <p>Wager $FORGE tokens and battle against other users in a player vs player coliseum located on the BlockForge Minecraft server.</p>
           </div>
         </li>
         <li style="background-color: #2d3748;">

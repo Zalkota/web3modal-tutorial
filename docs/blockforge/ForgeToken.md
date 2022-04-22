@@ -1,5 +1,5 @@
 ---
-title: Forge Token
+title: Forge Token - BlockForge Documentation
 pageClass: content-page-class-general
 ---
 <ForgeHeaderImg />
@@ -36,7 +36,7 @@ Blockforge Battle Pass holders can claim $FORGE tokens from playing on the serve
 Forge tokens are not redeemable until after the beta mode has ended. Beta mode will end once the Diamond Battle Pass NFT mint has ended.
 :::
 
-#### To claim $FORGE tokens via BlockForge Website
+#### Claim $FORGE tokens via BlockForge Website
 
 1. Visit the BlockForgeNFT.xyz website.
 

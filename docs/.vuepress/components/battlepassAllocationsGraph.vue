@@ -28,7 +28,7 @@
     </svg>
 
       </div>
-      <div class="color-light" style="display: block; margin-left: auto; margin-right: auto;">
+      <div class="color-light" style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
           <h5>A visual diagram of the public and whitelist allocations for the BlockForge Battle Pass NFT mint.</h5>
       </div>
     </div>
@@ -36,18 +36,5 @@
 </template>
 
 <style>
-.Images {
-  display: flex;
-}
 
-.img1 {
-  flex: 100%;
-  padding: 5px;
-}
-
-@media screen and (max-width: 300px) {
-  .img1 {
-    width: 300px;
-  }
-}
 </style>

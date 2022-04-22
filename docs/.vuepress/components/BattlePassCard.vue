@@ -8,7 +8,7 @@
           <img src="/Diamond_card_staked.jpg" alt="Diamond Battle Pass NFT Image">
         </div>
       </div>
-      <div class="color-light" style=" display: block; margin-left: auto; margin-right: auto;">
+      <div class="color-light" style="text-align: center; display: block; margin-left: auto; margin-right: auto;">
           <h5>A visual representation of the difference between the Staked Battle Pass and Non-staked Battle Pass.</h5>
       </div>
   </div>
