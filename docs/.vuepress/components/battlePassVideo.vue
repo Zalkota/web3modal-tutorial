@@ -90,31 +90,7 @@
     margin: 0;
 }
 
-p {
 
-    font-size: 14px;
-    padding-bottom: 30px;
-}
-
-h3 {
-   letter-spacing: .1rem;
-
-}
-
-h4 {
-    color: #EDF2F7;
-    margin-top: 0.75rem;
-    margin-bottom: 0.75rem;
-    font-weight: 700;
-    font-size: 18px;
-}
-
-h5 {
-    color: #2D3748;
-    margin-top: 0.75rem;
-    margin-bottom: 0.75rem;
-    font-weight: 400;
-}
 
 
 </style>

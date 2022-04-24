@@ -8,54 +8,6 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
-      "title": "Forge Token - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Forge Token - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/ForgeToken.html",
-      "relativePath": "blockforge/ForgeToken.md",
-      "key": "v-778b0ae8",
-      "path": "/blockforge/ForgeToken.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Introduction",
-          "slug": "introduction"
-        },
-        {
-          "level": 2,
-          "title": "Why Earn $FORGE ?",
-          "slug": "why-earn-forge"
-        },
-        {
-          "level": 3,
-          "title": "Claim Plots",
-          "slug": "claim-plots"
-        },
-        {
-          "level": 3,
-          "title": "Block Fortifications",
-          "slug": "block-fortifications"
-        },
-        {
-          "level": 3,
-          "title": "Arenas",
-          "slug": "arenas"
-        },
-        {
-          "level": 2,
-          "title": "Tokenomics & Distribution",
-          "slug": "tokenomics-distribution"
-        },
-        {
-          "level": 2,
-          "title": "Claim Forge Tokens",
-          "slug": "claim-forge-tokens"
-        }
-      ]
-    },
-    {
       "title": "Arenas - BlockForge Documentation",
       "frontmatter": {
         "title": "Arenas - BlockForge Documentation",
@@ -84,35 +36,43 @@ export const siteData = {
       ]
     },
     {
-      "title": "Battle Mode - BlockForge Documentation",
+      "title": "NPCs - BlockForge Documentation",
       "frontmatter": {
-        "title": "Battle Mode - BlockForge Documentation",
+        "title": "NPCs - BlockForge Documentation",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Battle_Mode.html",
-      "relativePath": "blockforge/Battle_Mode.md",
-      "key": "v-04ba1e6c",
-      "path": "/blockforge/Battle_Mode.html",
+      "regularPath": "/blockforge/NPCs.html",
+      "relativePath": "blockforge/NPCs.md",
+      "key": "v-5e5af1b0",
+      "path": "/blockforge/NPCs.html",
       "headers": [
         {
           "level": 2,
-          "title": "Introduction",
-          "slug": "introduction"
+          "title": "BlockForge Spawn",
+          "slug": "blockforge-spawn"
+        }
+      ]
+    },
+    {
+      "title": "Mercenary - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Mercenary - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Mercenary.html",
+      "relativePath": "blockforge/Mercenary.md",
+      "key": "v-2cde161c",
+      "path": "/blockforge/Mercenary.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Defending",
+          "slug": "defending"
         },
         {
           "level": 2,
-          "title": "Requirements",
-          "slug": "requirements"
-        },
-        {
-          "level": 2,
-          "title": "Plot Rank",
-          "slug": "plot-rank"
-        },
-        {
-          "level": 3,
-          "title": "Equation",
-          "slug": "equation"
+          "title": "Plot Owner Bounty",
+          "slug": "plot-owner-bounty"
         }
       ]
     },
@@ -150,6 +110,62 @@ export const siteData = {
       ]
     },
     {
+      "title": "Battle Mode - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Battle Mode - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Battle_Mode.html",
+      "relativePath": "blockforge/Battle_Mode.md",
+      "key": "v-04ba1e6c",
+      "path": "/blockforge/Battle_Mode.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Introduction",
+          "slug": "introduction"
+        },
+        {
+          "level": 2,
+          "title": "Plot Rank",
+          "slug": "plot-rank"
+        },
+        {
+          "level": 3,
+          "title": "$FORGE Token Generation Based on Diamond Blocks",
+          "slug": "forge-token-generation-based-on-diamond-blocks"
+        },
+        {
+          "level": 2,
+          "title": "Requirements",
+          "slug": "requirements"
+        }
+      ]
+    },
+    {
+      "title": "Renting Plots - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Renting Plots - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/PlotRenting.html",
+      "relativePath": "blockforge/PlotRenting.md",
+      "key": "v-6dc04dce",
+      "path": "/blockforge/PlotRenting.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Utility of a Rented Plot",
+          "slug": "utility-of-a-rented-plot"
+        },
+        {
+          "level": 2,
+          "title": "Minimum Renting Duration",
+          "slug": "minimum-renting-duration"
+        }
+      ]
+    },
+    {
       "title": "Links - BlockForge Documentation",
       "frontmatter": {
         "title": "Links - BlockForge Documentation",
@@ -183,66 +199,50 @@ export const siteData = {
       ]
     },
     {
-      "title": "Mercenary - BlockForge Documentation",
+      "title": "Forge Token - BlockForge Documentation",
       "frontmatter": {
-        "title": "Mercenary - BlockForge Documentation",
+        "title": "Forge Token - BlockForge Documentation",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/blockforge/Mercenary.html",
-      "relativePath": "blockforge/Mercenary.md",
-      "key": "v-2cde161c",
-      "path": "/blockforge/Mercenary.html",
+      "regularPath": "/blockforge/ForgeToken.html",
+      "relativePath": "blockforge/ForgeToken.md",
+      "key": "v-778b0ae8",
+      "path": "/blockforge/ForgeToken.html",
       "headers": [
         {
           "level": 2,
-          "title": "Defending",
-          "slug": "defending"
+          "title": "Why Earn $FORGE ?",
+          "slug": "why-earn-forge"
+        },
+        {
+          "level": 3,
+          "title": "Claim Plots",
+          "slug": "claim-plots"
+        },
+        {
+          "level": 3,
+          "title": "Block Fortifications",
+          "slug": "block-fortifications"
+        },
+        {
+          "level": 3,
+          "title": "Arenas",
+          "slug": "arenas"
         },
         {
           "level": 2,
-          "title": "Plot Owner Bounty",
-          "slug": "plot-owner-bounty"
-        }
-      ]
-    },
-    {
-      "title": "NPCs - BlockForge Documentation",
-      "frontmatter": {
-        "title": "NPCs - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/NPCs.html",
-      "relativePath": "blockforge/NPCs.md",
-      "key": "v-5e5af1b0",
-      "path": "/blockforge/NPCs.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "BlockForge Spawn",
-          "slug": "blockforge-spawn"
-        }
-      ]
-    },
-    {
-      "title": "Renting Plots - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Renting Plots - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/PlotRenting.html",
-      "relativePath": "blockforge/PlotRenting.md",
-      "key": "v-6dc04dce",
-      "path": "/blockforge/PlotRenting.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Utility of a Rented Plot",
-          "slug": "utility-of-a-rented-plot"
+          "title": "Tokenomics & Distribution",
+          "slug": "tokenomics-distribution"
         },
         {
           "level": 2,
-          "title": "Minimum Renting Duration",
-          "slug": "minimum-renting-duration"
+          "title": "Claim Forge Tokens",
+          "slug": "claim-forge-tokens"
+        },
+        {
+          "level": 3,
+          "title": "BlockForge Website",
+          "slug": "blockforge-website"
         }
       ]
     },
@@ -281,6 +281,17 @@ export const siteData = {
       ]
     },
     {
+      "title": "Foreward",
+      "frontmatter": {
+        "title": "Foreward",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/",
+      "relativePath": "blockforge/README.md",
+      "key": "v-32a84dba",
+      "path": "/blockforge/"
+    },
+    {
       "title": "Plot NFT - BlockForge Documentation",
       "frontmatter": {
         "title": "Plot NFT - BlockForge Documentation",
@@ -308,8 +319,8 @@ export const siteData = {
         },
         {
           "level": 3,
-          "title": "Calulation",
-          "slug": "calulation"
+          "title": "Diamond Block Calulation",
+          "slug": "diamond-block-calulation"
         },
         {
           "level": 2,
@@ -320,40 +331,6 @@ export const siteData = {
           "level": 3,
           "title": "Plot Price Calculation",
           "slug": "plot-price-calculation"
-        }
-      ]
-    },
-    {
-      "title": "Foreward",
-      "frontmatter": {
-        "title": "Foreward",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/",
-      "relativePath": "blockforge/README.md",
-      "key": "v-32a84dba",
-      "path": "/blockforge/"
-    },
-    {
-      "title": "Renting Battle Pass - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Renting Battle Pass - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/Renting_Battle_Pass.html",
-      "relativePath": "blockforge/Renting_Battle_Pass.md",
-      "key": "v-51d4e4cc",
-      "path": "/blockforge/Renting_Battle_Pass.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Utility of a Rented Battle Pass",
-          "slug": "utility-of-a-rented-battle-pass"
-        },
-        {
-          "level": 2,
-          "title": "Minimum Renting Duration",
-          "slug": "minimum-renting-duration"
         }
       ]
     },
@@ -397,6 +374,17 @@ export const siteData = {
       "path": "/blockforge/TheVision.html"
     },
     {
+      "title": "Foreward - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Foreward - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/welcome.html",
+      "relativePath": "blockforge/welcome.md",
+      "key": "v-c4c3e3cc",
+      "path": "/blockforge/welcome.html"
+    },
+    {
       "title": "Connect - BlockForge Documentation",
       "frontmatter": {
         "title": "Connect - BlockForge Documentation",
@@ -423,17 +411,6 @@ export const siteData = {
           "slug": "verify-your-wallet"
         }
       ]
-    },
-    {
-      "title": "Foreward - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Foreward - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/blockforge/welcome.html",
-      "relativePath": "blockforge/welcome.md",
-      "key": "v-c4c3e3cc",
-      "path": "/blockforge/welcome.html"
     },
     {
       "title": "Battle Pass NFT- BlockForge Documentation",
@@ -502,6 +479,29 @@ export const siteData = {
       "relativePath": "index.md",
       "key": "v-bd5eb1d8",
       "path": "/"
+    },
+    {
+      "title": "Renting Battle Pass - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Renting Battle Pass - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/blockforge/Renting_Battle_Pass.html",
+      "relativePath": "blockforge/Renting_Battle_Pass.md",
+      "key": "v-51d4e4cc",
+      "path": "/blockforge/Renting_Battle_Pass.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Utility of a Rented Battle Pass",
+          "slug": "utility-of-a-rented-battle-pass"
+        },
+        {
+          "level": 2,
+          "title": "Minimum Renting Duration",
+          "slug": "minimum-renting-duration"
+        }
+      ]
     }
   ],
   "themeConfig": {

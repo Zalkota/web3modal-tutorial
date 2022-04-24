@@ -1,34 +1,27 @@
 <template>
-    <div class="">
         <div class="flex" style="margin-top: 2rem;">
             <div class="card">
                 <img src="/pot_1.jpg" alt="plot1" style=" display: block; margin-left: auto; margin-right: auto;">
                 <div class="card-container">
-                    <h3 class="header-3">Battle Mode: <span class="color-red">  <b>DISABLED</b> </span> </h3>
-                    <h5 class="header-5">$FORGE Tokens per hour: <span class="color-blue"> <b>ZERO</b> </span></h5>
-                    <!-- <h5>Vulnerable to Attack: <span class="color-blue"> <b>NO</b> </span></h5> -->
-                    <h5 class="header-5">Owner can attack other battle mode enabled plots: <span class="color-blue"> <b>NO</b> </span></h5>
-                    <h5 class="header-5">Modifiable by owner: <span class="color-blue"> <b>YES</b> </span></h5>
-                    <h5 class="header-5">Modifiable by users in battle mode: <span class="color-blue"> <b>NO</b> </span></h5>
+                    <span class="header-3">Battle Mode: <span class="color-red">  <b>DISABLED</b> </span> </span> <br>
+                    <span class="header-5"><span class="color-blue">-</span> $FORGE Tokens per hour: <span class="color-blue"> <b>ZERO</b> </span></span> <br>
+                    <span class="header-5"><span class="color-blue">-</span> Owner can attack other battle mode enabled plots: <span class="color-blue"> <b>NO</b> </span></span> <br>
+                    <span class="header-5"><span class="color-blue">-</span> Modifiable by owner: <span class="color-blue"> <b>YES</b> </span></span> <br>
+                    <span class="header-5"><span class="color-blue">-</span> Modifiable by users in battle mode: <span class="color-blue"> <b>NO</b> </span></span>
                 </div>
             </div>
 
             <div class="card">
                 <img src="/plot_badge_2.jpg" alt="plot1" style=" display: block; margin-left: auto; margin-right: auto;">
                 <div class="card-container">
-                    <h3 class="header-3">Battle Mode: <span class="color-blue">  <b>ENABLED</b> </span> </h3>
-                    <h5 class="header-5">$FORGE Tokens per hour: <span class="color-blue"> <b>582</b> </span></h5>
-                    <!-- <h5>Vulnerable to Attack: <span class="color-blue"> <b>YES</b> </span></h5> -->
-                    <h5 class="header-5">Owner can attack other battle mode enabled plots: <span class="color-blue"> <b>YES</b> </span></h5>
-                    <h5 class="header-5">Modifiable by owner: <span class="color-blue"> <b>YES</b> </span></h5>
-                    <h5 class="header-5">Modifiable by users in battle mode: <span class="color-blue"> <b>YES</b> </span></h5>
+                    <span class="header-3"> Battle Mode: <span class="color-blue">  <b>ENABLED</b> </span> </span> <br>
+                    <span class="header-5"> <span class="color-blue">-</span> $FORGE Tokens per hour: <span class="color-blue"> <b>582</b> </span></span> <br>
+                    <span class="header-5"><span class="color-blue">-</span> Owner can attack other battle mode enabled plots: <span class="color-blue"> <b>YES</b> </span></span> <br>
+                    <span class="header-5"><span class="color-blue">-</span> Modifiable by owner: <span class="color-blue"> <b>YES</b> </span></span> <br>
+                    <span class="header-5"><span class="color-blue">-</span> Modifiable by users in battle mode: <span class="color-blue"> <b>YES</b> </span></span> <br>
                 </div>
             </div>
-
         </div>
-    </div>
-
-
 </template>
 
 <style>
@@ -73,25 +66,21 @@
     border-top: 4px solid #91A0BA;
 }
 
-p {
-
-    font-size: 14px;
-    padding-bottom: 30px;
-}
 
 .header-3  {
    color: #EDF2F7;
    letter-spacing: .1rem;
    margin-top: 1rem;
-
+   font-size: 1.25rem;
+   font-weight: 700;
+   font-family: 'Russo One';
 }
 
 .header-4 {
     color: #EDF2F7;
-    margin-top: 0.75rem;
-    margin-bottom: 0.75rem;
     font-weight: 700;
-    font-size: 18px;
+    font-family: 'Russo One';
+    font-size: 1.25rem;
 }
 
 .header-5 {

@@ -27,7 +27,7 @@ The map of Blockforge is evenly divided into 6,400 unique plots of land. A plot 
 Plots are given a rank number based on the amount of **Diamond Blocks** located on the plot. When the plot is staked and set to [Battle Mode](/blockforge/Battle_mode), then the plot will generate $FORGE tokens every hour, equal to the rank number multiplied by 2.
 Players can increase the rank of their land by placing diamond blocks on their plot. Once a staked plot contains at least one block of diamond, then it can be set to [Battle Mode](/blockforge/Battle_mode) by the owner. When a staked plot is in Battle Mode, then it will generate $FORGE tokens for the owner.
 
-### Calulation
+### Diamond Block Calulation
 <tokenEquation/>
 
 
