@@ -1,6 +1,6 @@
 <template>
   <div class="">
-      <div class = "Images">
+      <div class = "battle-pass-image-container">
         <div class="battle-pass-image">
           <img src="/Diamond_card.jpg" alt="Diamond Battle Pass NFT Image">
         </div>
@@ -15,7 +15,7 @@
 </template>
 
 <style>
-.Images {
+.battle-pass-image-container {
   display: flex;
   height: 530px;
 }

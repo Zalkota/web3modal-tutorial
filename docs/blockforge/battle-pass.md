@@ -15,7 +15,6 @@ Owners of the NFT, will be able to download the Minecraft skin on our website. T
 <!-- The Gold Pass will be scheduled for mint after the Diamond Battle Pass.  There will be a total of 4000 Gold Passes scheduled for minting. -->
 
 
-<!-- <BattlePassImages/> -->
 <battlePassVideo/>
 
 ## Token Generation

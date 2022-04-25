@@ -35,10 +35,4 @@
     margin: .25rem;
 }
 
-
-/* @media screen and (max-width: 300px) {
-  .img1 {
-    width: 300px;
-  }
-} */
 </style>

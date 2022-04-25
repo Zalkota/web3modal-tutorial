@@ -1,17 +1,17 @@
 <template>
-  <div class = "Images">
-    <div class="img">
+  <div class = "castle-image-container">
+    <div class="castle-image">
       <img src="/castle.png" alt="Castle" style="width:740px;height:463px;">
     </div>
   </div>
 </template>
 
 <style>
-.Images {
+.castle-image-container {
   display: flex;
 }
 
-.img {
+.castle-image {
   flex: 50%;
   padding: 2px;
   border:1px;
@@ -22,7 +22,7 @@
 }
 
 @media screen and (max-width: 500px) {
-  .img {
+  .castle-image {
     width: 300px;
   }
 }
