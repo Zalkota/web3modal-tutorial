@@ -71,11 +71,8 @@
   </div>
 </template>
 <style>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
+
 
 .container {
   min-height: 100vh;
@@ -92,6 +89,7 @@
   max-width: 800px;
   margin: 0 auto;
   position: relative;
+
 }
 
 .timeline ul {
@@ -103,6 +101,9 @@
   background-color: #bd9989;
   color: #2c3e50;
   margin-bottom: 20px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 .timeline ul li:last-child {
   margin-bottom: 0;
