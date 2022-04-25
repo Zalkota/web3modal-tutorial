@@ -1,6 +1,6 @@
 <template>
-  <div class = "Images">
-    <div class="img1">
+  <div class = "">
+    <div class="">
       <!-- <img src="/battlepass_allocations_graph.jpg" alt="battle pass mint allocations" style="max-width: 46rem; display: block; margin-left: auto; margin-right: auto; margin-bottom: 2rem; margin-top: 2rem;"> -->
       <div class="" >
 
