@@ -4,169 +4,153 @@
 
 import { injectComponentOption, ensureAsyncComponentsLoaded } from '@app/util'
 import rootMixins from '@internal/root-mixins'
-import GlobalLayout from "G:\\dapps\\blockforge\\documentation\\Blockforge-Docs\\node_modules\\@vuepress\\core\\lib\\client\\components\\GlobalLayout.vue"
+import GlobalLayout from "G:\\tutorials\\web3ApprenticeTutorials\\node_modules\\@vuepress\\core\\lib\\client\\components\\GlobalLayout.vue"
 
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-39b14288",
-    path: "/blockforge/DefenseOfTheDiamonds.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-39b14288").then(next)
-    },
-  },
-  {
-    name: "v-778b0ae8",
-    path: "/blockforge/ForgeToken.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-778b0ae8").then(next)
-    },
-  },
-  {
-    name: "v-c8b3afb0",
-    path: "/blockforge/Arenas.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-c8b3afb0").then(next)
-    },
-  },
-  {
-    name: "v-2cde161c",
-    path: "/blockforge/Mercenary.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2cde161c").then(next)
-    },
-  },
-  {
-    name: "v-5e5af1b0",
-    path: "/blockforge/NPCs.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-5e5af1b0").then(next)
-    },
-  },
-  {
-    name: "v-04ba1e6c",
-    path: "/blockforge/Battle_Mode.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-04ba1e6c").then(next)
-    },
-  },
-  {
-    name: "v-6dc04dce",
-    path: "/blockforge/PlotRenting.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6dc04dce").then(next)
-    },
-  },
-  {
-    name: "v-3eff857c",
-    path: "/blockforge/OfficialLinks.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-3eff857c").then(next)
-    },
-  },
-  {
-    name: "v-1dd0c4fa",
-    path: "/blockforge/Plots.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-1dd0c4fa").then(next)
-    },
-  },
-  {
-    name: "v-d7eda51c",
-    path: "/blockforge/PlotStaking.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-d7eda51c").then(next)
-    },
-  },
-  {
-    name: "v-6a3a7570",
-    path: "/blockforge/Project_Timeline.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6a3a7570").then(next)
-    },
-  },
-  {
-    name: "v-32a84dba",
-    path: "/blockforge/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-32a84dba").then(next)
-    },
-  },
-  {
-    path: "/blockforge/index.html",
-    redirect: "/blockforge/"
-  },
-  {
-    name: "v-5ba9942c",
-    path: "/blockforge/TheVision.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-5ba9942c").then(next)
-    },
-  },
-  {
-    name: "v-51d4e4cc",
-    path: "/blockforge/Renting_Battle_Pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-51d4e4cc").then(next)
-    },
-  },
-  {
-    name: "v-22b4653e",
-    path: "/blockforge/Staking_Battle_Pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-22b4653e").then(next)
-    },
-  },
-  {
-    name: "v-046d4052",
-    path: "/blockforge/battle-pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-046d4052").then(next)
-    },
-  },
-  {
-    name: "v-e0a5aea0",
-    path: "/blockforge/ServerDocumentation.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-e0a5aea0").then(next)
-    },
-  },
-  {
-    name: "v-c4c3e3cc",
-    path: "/blockforge/welcome.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-c4c3e3cc").then(next)
-    },
-  },
-  {
-    name: "v-bd5eb1d8",
+    name: "v-fee1ad68",
     path: "/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-bd5eb1d8").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-fee1ad68").then(next)
     },
   },
   {
     path: "/index.html",
     redirect: "/"
+  },
+  {
+    name: "v-fc060cc0",
+    path: "/web3modal-vue-tutorial/Contents.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-fc060cc0").then(next)
+    },
+  },
+  {
+    name: "v-53a82396",
+    path: "/web3modal-vue-tutorial/Mercenary.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-53a82396").then(next)
+    },
+  },
+  {
+    name: "v-a23fe400",
+    path: "/web3modal-vue-tutorial/Main.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-a23fe400").then(next)
+    },
+  },
+  {
+    name: "v-573d9234",
+    path: "/web3modal-vue-tutorial/OfficialLinks.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-573d9234").then(next)
+    },
+  },
+  {
+    name: "v-799d5920",
+    path: "/web3modal-vue-tutorial/NPCs.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-799d5920").then(next)
+    },
+  },
+  {
+    name: "v-ee084a1c",
+    path: "/web3modal-vue-tutorial/PlotRenting.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-ee084a1c").then(next)
+    },
+  },
+  {
+    name: "v-f3d520d4",
+    path: "/web3modal-vue-tutorial/PlotStaking.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-f3d520d4").then(next)
+    },
+  },
+  {
+    name: "v-39e8b6c0",
+    path: "/web3modal-vue-tutorial/Project_Timeline.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-39e8b6c0").then(next)
+    },
+  },
+  {
+    name: "v-29238dab",
+    path: "/web3modal-vue-tutorial/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-29238dab").then(next)
+    },
+  },
+  {
+    path: "/web3modal-vue-tutorial/index.html",
+    redirect: "/web3modal-vue-tutorial/"
+  },
+  {
+    name: "v-409d469e",
+    path: "/web3modal-vue-tutorial/Plots.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-409d469e").then(next)
+    },
+  },
+  {
+    name: "v-b0dec084",
+    path: "/web3modal-vue-tutorial/Renting_Battle_Pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-b0dec084").then(next)
+    },
+  },
+  {
+    name: "v-85510128",
+    path: "/web3modal-vue-tutorial/Related.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-85510128").then(next)
+    },
+  },
+  {
+    name: "v-8a5b5b58",
+    path: "/web3modal-vue-tutorial/ServerDocumentation.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-8a5b5b58").then(next)
+    },
+  },
+  {
+    name: "v-51b67f50",
+    path: "/web3modal-vue-tutorial/TheVision.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-51b67f50").then(next)
+    },
+  },
+  {
+    name: "v-6793ac62",
+    path: "/web3modal-vue-tutorial/Staking_Battle_Pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6793ac62").then(next)
+    },
+  },
+  {
+    name: "v-5804a984",
+    path: "/web3modal-vue-tutorial/welcome.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-5804a984").then(next)
+    },
   },
   {
     path: '*',

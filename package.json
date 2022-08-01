@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-example",
+  "name": "vuepress-BlockForge-Docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jukabo.eth",
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.8.2"

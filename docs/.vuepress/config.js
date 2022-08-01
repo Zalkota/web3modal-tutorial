@@ -5,47 +5,23 @@ module.exports = {
   themeConfig: {
     logo: '/logo.png',
     nav: [
-      { text: 'WhitePaper', link: '/blockforge/' },
-      { text: 'Gameplay Documentation', link: '/blockforge/GameMechanics' },
-      { text: 'Server Documentation', link: '/blockforge/placeholder' }
+      { text: 'Web3Modal-Vue Tutorial', link: '/web3modal-vue-tutorial/' },
+      { text: 'Related Tutorials', link: '/web3modal-vue-tutorial/related' }
     ],
     sidebar: [
 
       {
-        title: 'WhitePaper',
+        title: 'Web3Modal-Vue Tutorial',
         collapsable: false,
         children: [
-          ['/blockforge/welcome', 'Foreward'],
-          // ['/blockforge/TheVision', 'The Vision'],
-          ['/blockforge/Project_Timeline', 'Project Roadmap'],
-          ['/blockforge/Battle_Mode', 'Battle Mode'],
-          ['/blockforge/battle-pass', 'Battle Pass NFT'],
-          ['/blockforge/Staking_Battle_Pass', 'Staking Battle Passes'],
-          ['/blockforge/Renting_Battle_Pass', 'Renting Battle Passes'],
-          ['/blockforge/Plots', 'Plot NFT'],
-          ['/blockforge/PlotStaking', 'Staking Plot NFTs'],
-          ['/blockforge/PlotRenting', 'Renting Plot NFTs'],
-          ['/blockforge/ForgeToken', '$FORGE Token']
+          ['/web3modal-vue-tutorial/Contents', 'Contents'],
         ]
       },
       {
-        title: 'GamePlay',
+        title: 'Related',
         collapsable: false,
         children: [
-          ['/blockforge/DefenseOfTheDiamonds','Defense Of The Diamonds'],
-          ['/blockforge/Arenas','Arenas'],
-          ['/blockforge/Mercenary','Play as a Mercenary'],
-
-          ['/blockforge/NPCs', 'NPCs']
-        ]
-      },
-      {
-        title: 'Server Documentation',
-        collapsable: false,
-        children: [
-          ['/blockforge/ServerDocumentation', 'Connect to Server'],
-          ['/blockforge/OfficialLinks', 'Official Links']
-
+          ['/web3modal-vue-tutorial/Related','Related']
         ]
       }
     ]
