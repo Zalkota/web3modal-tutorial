@@ -1,6 +1,6 @@
 import m0 from "G:\\tutorials\\web3ApprenticeTutorials\\.temp\\app-enhancers\\0.js"
 import m1 from "G:\\tutorials\\web3ApprenticeTutorials\\.temp\\app-enhancers\\data-block.js"
-import m2 from "G:\\tutorials\\web3ApprenticeTutorials\\.temp\\app-enhancers\\global-components-45.js"
+import m2 from "G:\\tutorials\\web3ApprenticeTutorials\\.temp\\app-enhancers\\global-components-16.js"
 import m3 from "G:\\tutorials\\web3ApprenticeTutorials\\.temp\\app-enhancers\\1.js"
 
 export default [

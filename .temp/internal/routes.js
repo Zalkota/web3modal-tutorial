@@ -29,27 +29,11 @@ export const routes = [
     },
   },
   {
-    name: "v-53a82396",
-    path: "/web3modal-vue-tutorial/Mercenary.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-53a82396").then(next)
-    },
-  },
-  {
     name: "v-a23fe400",
     path: "/web3modal-vue-tutorial/Main.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-a23fe400").then(next)
-    },
-  },
-  {
-    name: "v-573d9234",
-    path: "/web3modal-vue-tutorial/OfficialLinks.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-573d9234").then(next)
     },
   },
   {
@@ -61,11 +45,35 @@ export const routes = [
     },
   },
   {
+    name: "v-53a82396",
+    path: "/web3modal-vue-tutorial/Mercenary.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-53a82396").then(next)
+    },
+  },
+  {
+    name: "v-573d9234",
+    path: "/web3modal-vue-tutorial/OfficialLinks.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-573d9234").then(next)
+    },
+  },
+  {
     name: "v-ee084a1c",
     path: "/web3modal-vue-tutorial/PlotRenting.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-ee084a1c").then(next)
+    },
+  },
+  {
+    name: "v-39e8b6c0",
+    path: "/web3modal-vue-tutorial/Project_Timeline.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-39e8b6c0").then(next)
     },
   },
   {
@@ -77,11 +85,27 @@ export const routes = [
     },
   },
   {
-    name: "v-39e8b6c0",
-    path: "/web3modal-vue-tutorial/Project_Timeline.html",
+    name: "v-85510128",
+    path: "/web3modal-vue-tutorial/Related.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-39e8b6c0").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-85510128").then(next)
+    },
+  },
+  {
+    name: "v-409d469e",
+    path: "/web3modal-vue-tutorial/Plots.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-409d469e").then(next)
+    },
+  },
+  {
+    name: "v-6793ac62",
+    path: "/web3modal-vue-tutorial/Staking_Battle_Pass.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6793ac62").then(next)
     },
   },
   {
@@ -97,27 +121,11 @@ export const routes = [
     redirect: "/web3modal-vue-tutorial/"
   },
   {
-    name: "v-409d469e",
-    path: "/web3modal-vue-tutorial/Plots.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-409d469e").then(next)
-    },
-  },
-  {
     name: "v-b0dec084",
     path: "/web3modal-vue-tutorial/Renting_Battle_Pass.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-b0dec084").then(next)
-    },
-  },
-  {
-    name: "v-85510128",
-    path: "/web3modal-vue-tutorial/Related.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-85510128").then(next)
     },
   },
   {
@@ -134,14 +142,6 @@ export const routes = [
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-51b67f50").then(next)
-    },
-  },
-  {
-    name: "v-6793ac62",
-    path: "/web3modal-vue-tutorial/Staking_Battle_Pass.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6793ac62").then(next)
     },
   },
   {

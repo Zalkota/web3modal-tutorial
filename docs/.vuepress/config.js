@@ -1,7 +1,10 @@
 module.exports = {
   extraWatchFiles: ["src/**/*.md","src/index.md","src/**/*.vue"],
   title: null,
-  description: 'Official Documentation Site for the BlockForge NFT Project',
+  description: 'Web3 Apprentice proudly provides the web3 community with free tutorials that assist programmer create decentralized applications (dapps) on Ethereum ',
+  head: [
+
+  ],
   themeConfig: {
     logo: '/logo.png',
     nav: [

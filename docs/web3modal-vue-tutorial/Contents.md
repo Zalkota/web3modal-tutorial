@@ -2,7 +2,9 @@
 title: WebModal-Vue Tutorial
 pageClass: content-page-class-general
 ---
-# Web3Modal-Vue Tutorial
+
+# How to Install Web3Modal-Vue
+
 
 
 ## Introduction
@@ -90,7 +92,7 @@ In the same file and above the `<script>`, add the following code as the templat
 
 ## Step 3 – Component Configuration
 
-Within the export default block the following the component. This will signal to VueJS that we are requesting to use the Web3ModalVue componen from the imported file called “web3modal-vue”.
+Within the export default block type the following into the `components` block. This will signal to VueJS that we are requesting to use the Web3ModalVue component from the `web3modal-vue` package.
 
 ```
 components: {
@@ -98,7 +100,7 @@ components: {
   },
 ```
 
-Within the data() block, add the following:
+Within the `data() { .. }` block, type the following code:
 ```
 data() {
     return {
@@ -127,8 +129,14 @@ Type the following line of code to our local imports, above where we imported We
 ```
 const INFURA_ID = process.env.INFURA_ID
 ```
+:::danger Note
+If you are using git, add the .env file to the .gitignore file in your project directory.
 
-Inside the methods block, add the following method:
+[Learn more here](https://git-scm.com/docs/gitignore)
+:::
+
+
+Inside the methods block, type the following code:
 
 ```
  methods: {
@@ -152,7 +160,7 @@ INFURA_ID=“INFURA-ID”
 ### Description
 Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
 
-Type the following line of code to our local imports inside the `connectWallet.vue` component, above where we imported **Web3ModalVue** and the **INFURA_ID**.
+Type the following line of code to our local imports inside the **connectWallet.vue** component, above where we imported **Web3ModalVue** and the **INFURA_ID**.
 
 ```
 import {web3Modal} from "./config/mixins";
